@@ -1,0 +1,1001 @@
+product_id,product_name,category,price,stock_quantity,product_rating,customer_id
+1,according,Electronics,99.81,97,Low,2458dcef-2d04-413f-ae45-e8c668904b30
+2,together,Clothing,317.62,59,High,8119336c-03e2-4fce-addb-3ad2a09897df
+3,in,Electronics,121.56,80,Medium,c2193c17-721e-46b0-b951-d1adfd939574
+4,sell,Clothing,95.47,41,Low,635ea33f-345e-4343-a40c-5b0ed6106670
+5,agent,Home Appliances,421.9,94,Medium,9f24d076-13c2-4de9-945c-46494f8629b1
+6,across,Clothing,167.27,98,High,54f3ed34-3fc5-4c1a-bc74-22cd8e9edf27
+7,capital,Clothing,359.93,20,Low,c6fd8bdc-9a1c-41b1-a714-2a7881a4b274
+8,head,Home Appliances,216.29,58,High,6d509697-a66e-4828-9784-03502ecf262d
+9,off,Electronics,421.81,31,High,135f769a-3475-411f-8499-ab7197e7e3f1
+10,kid,Clothing,81.75,94,Medium,f02ad6f8-1f21-4f79-8dca-ca23d473b65d
+11,already,Home Appliances,451.51,82,High,c9e9674e-ff72-464f-8e22-dd134a758a9d
+12,environment,Home Appliances,295.67,35,Medium,1c639897-8dd7-4124-a859-f5bae3c690bf
+13,answer,Home Appliances,331.32,22,High,a7c7e3e3-e6ea-4f52-a25f-4db3ac452d1c
+14,suggest,Home Appliances,166.7,95,Low,1bfe9318-e6d3-410a-ad4b-13acc97f1886
+15,suggest,Electronics,294.6,25,Medium,6e5dc3e7-a30d-4d35-a884-fd308dfdb96e
+16,writer,Home Appliances,21.5,93,Medium,cddc77d0-8bbc-4ea6-840f-50be9a89d765
+17,us,Home Appliances,45.35,24,Medium,964fdf47-0f42-493c-aed4-41ec3b5a5f5b
+18,model,Electronics,52.92,99,High,2f98af9f-baf7-4500-8418-e7c1424df60f
+19,store,Clothing,334.53,85,High,dc54db36-db72-4f37-95dd-7c0581f324ee
+20,PM,Home Appliances,295.73,44,Medium,38ddbd49-45a7-49bc-9de7-ca1d27583a12
+21,approach,Home Appliances,96.54,96,Medium,080fb6e0-ca4c-4930-b11f-81ed29b0349a
+22,stage,Electronics,118.16,83,Medium,e84b2714-9899-4c12-8704-4a7fa1241a2a
+23,economy,Clothing,338.47,97,Medium,fc9c9c96-fa31-4f5a-adde-4e277861bb03
+24,other,Home Appliances,468.17,100,Low,4f1d26c2-83f1-419b-853c-506cdf2bf518
+25,join,Electronics,340.04,61,High,87638304-706e-49d3-bef6-da02a90730a5
+26,about,Electronics,192.45,34,Medium,e97ad6b8-00f7-4d69-8d92-da93f46cc435
+27,hundred,Electronics,404.87,35,Medium,c5416418-3260-443e-9427-69bb8fbb68e7
+28,people,Clothing,290.47,85,Medium,c097bf74-5e81-468b-a360-5c29d8040d83
+29,box,Home Appliances,155.91,22,Medium,7b795679-9e67-43c9-a4b3-01ffdf3e4583
+30,close,Home Appliances,137.89,40,Low,09fbf77d-f375-4f14-99f1-b6d32d66bdd9
+31,general,Home Appliances,129.63,35,Medium,e9a39b36-d2b0-4b16-b567-e9fcf92263e8
+32,type,Home Appliances,287.43,23,Low,2c0ccd3f-274a-4cdd-b6c1-43e4a789e7fb
+33,high,Clothing,353.13,29,Low,c6b42b60-9ae5-47b4-b69c-26ef618f840a
+34,Mr,Clothing,258.55,87,High,23220995-c8d1-403a-adc3-7a609502e467
+35,his,Home Appliances,106.6,37,Low,1f07d92b-d799-4aa0-bf9f-c768194b5c21
+36,thing,Home Appliances,35.37,25,Medium,f9351009-dcc3-4308-9106-bcecb91c0a57
+37,central,Electronics,360.06,22,Low,b8c30c18-f974-49f3-9549-b080fc4f9446
+38,to,Home Appliances,380.03,46,Medium,89f868f1-8131-48d2-a528-9e05e33f290c
+39,truth,Home Appliances,492.45,63,Medium,61070462-e657-4e9f-9a0b-41f57f71f0d4
+40,policy,Electronics,191.6,96,Medium,95226a51-ec79-4e73-af15-f9f97898e0e5
+41,so,Home Appliances,402.74,45,Medium,e6887a4a-2cfe-4b85-a473-5490d0e8cc97
+42,enter,Home Appliances,413.82,38,Medium,1276fa3b-29cf-4e59-868d-d6337249f308
+43,mouth,Home Appliances,391.71,36,Medium,c170e81c-c957-4a46-af85-9c58beb06d7a
+44,several,Electronics,230.61,90,Low,5feae1d8-c742-40f4-8a64-6f58a1b0aae9
+45,break,Electronics,202.1,28,High,4ad42d0d-1970-4ac4-a73c-799977958854
+46,listen,Clothing,443.9,71,Low,1ddd24dd-f1cb-4905-a417-8697212863db
+47,important,Electronics,426.73,52,Low,90f930bb-fd93-4e65-a64b-0b5db06cf179
+48,raise,Electronics,106.02,26,Medium,da4f9ad9-2703-4019-bf96-1889f4c542af
+49,campaign,Home Appliances,450.29,100,Medium,2bd5639f-02bd-4f66-aa16-a7f81dc746e5
+50,room,Clothing,220.63,97,Medium,070a7ed3-b391-4688-b929-59df2cc2a173
+51,century,Home Appliances,474.49,38,Medium,e93257c6-d9c7-44ef-b0ee-3f1ae6c9b475
+52,middle,Clothing,226.07,21,Medium,5ede3f2c-d761-4beb-ba0f-19c311332aa8
+53,another,Clothing,348.37,25,High,d5e7ce43-8590-4756-832e-029d11d8d356
+54,factor,Home Appliances,29.18,73,Medium,2a26e71f-6118-4b3e-bf75-98d4293ac595
+55,prepare,Electronics,196.39,26,Medium,27b174f1-c191-4e4e-9381-a8164a128968
+56,appear,Clothing,13.37,67,High,5c319671-3f8f-49f4-a3c8-0f7c4c52569d
+57,success,Home Appliances,326.64,56,High,476433c3-6836-4826-a943-fb9144f17288
+58,party,Clothing,275.31,81,Low,4e7f2ea6-6295-442e-80a3-bfe370916462
+59,dark,Clothing,235.92,51,Low,c1f24e3c-eeab-42ee-b2de-b3b5c0eee16a
+60,toward,Clothing,312.65,27,Low,8f58f19e-9843-4d5a-a68f-487219631f44
+61,project,Electronics,479.32,40,Low,51bfedbc-d7dc-493a-9795-aa43b2e27c44
+62,the,Electronics,352.5,45,Low,eacf3acf-fbb0-485f-b59e-7b2b42e8e670
+63,company,Electronics,249.98,32,Medium,ce666945-d35e-4d84-b9df-30156bf34c10
+64,church,Electronics,459.61,62,Low,95c2ec41-9dbd-4e6d-91ee-46bc444e9259
+65,push,Home Appliances,439.71,55,High,2d0b6faf-9fea-4986-a956-580c75d3df50
+66,camera,Home Appliances,72.17,75,High,1b1609fc-730e-4026-aa90-1c5d2d4a55c5
+67,less,Electronics,361.92,80,Low,d05e9b1f-3d03-4b3f-ab9f-00c401f8acaa
+68,dream,Electronics,459.6,69,High,42e154ec-c597-41e8-a4fd-dfdfdb43d95a
+69,avoid,Electronics,340.21,67,Low,25b9f4cd-a7ab-4a31-ad33-f56f0d9d663b
+70,cold,Clothing,280.16,95,Low,4bd87ba3-ab04-450e-822a-006b403d925a
+71,push,Electronics,335.16,93,High,2b5aa47f-eaa9-40ae-854c-14325ea9eff3
+72,least,Electronics,104.9,31,Medium,d1c4d1c8-b1f2-4833-8a0a-86938fbb2f24
+73,food,Clothing,81.73,41,Low,3d68cc1d-59b2-4853-a59f-ff12c9db09a8
+74,manage,Electronics,416.35,60,Medium,6c6254b6-825c-4476-b788-a9204fc3dc32
+75,budget,Home Appliances,325.72,35,High,933f2dfb-e8d0-458d-a4f0-033a82c6d806
+76,scene,Home Appliances,186.18,54,High,139b6a56-9295-4730-8f5f-b5455bbe331a
+77,item,Home Appliances,326.26,90,Low,996270dc-fb12-44c4-a43a-98b7afdd2c1d
+78,information,Clothing,274.6,63,High,79496724-234d-4fa5-9794-ee71014b110d
+79,everybody,Electronics,224.89,57,Low,9d825713-9c64-4581-a2c0-5db8e5a03336
+80,create,Clothing,248.73,76,Low,c420edf7-e592-4641-aae6-62329964e344
+81,age,Home Appliances,109.61,45,Medium,c039885c-bf5f-4dd4-9056-b181bb07707d
+82,house,Home Appliances,293.13,81,Low,857712b5-ff5f-49cc-bebc-35597e2c0167
+83,police,Electronics,78.37,95,High,300ab3de-ca04-462d-9c02-1f69b78267bb
+84,argue,Clothing,360.43,57,Low,5549471c-7e17-41ae-bd5d-6f90db53625c
+85,leader,Home Appliances,150.11,67,High,aaf4a1e5-5491-47d5-a04c-5636b78bbd8b
+86,however,Electronics,141.87,99,Medium,88d876d2-4c71-4c6a-b5e7-4e4eaf6d6a2a
+87,American,Home Appliances,135.02,52,Medium,9b2709cf-4df6-460b-824a-984f6b38e3ba
+88,require,Home Appliances,18.92,98,Low,13df3f1a-6755-42c5-9276-2058b80e0127
+89,certain,Electronics,26.5,86,Low,6f6cb011-c2f5-44eb-967e-f56fc5da3808
+90,community,Electronics,172.9,73,Medium,a4874b7b-c29a-4650-87e5-e68f37d32910
+91,evidence,Electronics,340.01,82,High,73f39ab8-50d1-4009-8b16-b9d4f013cde3
+92,view,Electronics,61.25,23,Low,7d3b1fd7-5135-492d-9e80-c022ce6f3adf
+93,institution,Electronics,475.64,31,Medium,93944c06-3229-4086-b025-29f532889daa
+94,officer,Electronics,57.47,99,Medium,b7a87a35-38e2-4bf7-bf12-383788e900b7
+95,region,Electronics,260.19,72,Low,a9e9b40d-5ba9-4b6b-9d61-7ad6f0a79d2a
+96,top,Clothing,455.52,52,Medium,171a5c2e-8015-42da-a2b0-67740b43efe4
+97,bad,Electronics,472.37,86,High,765c94ec-13b7-4d7b-9577-3bae55df94c8
+98,realize,Home Appliances,98.2,91,Medium,30b5d696-368d-483b-8b34-6da64547c8e1
+99,west,Clothing,477.68,51,High,8bd749d4-7007-44a3-a47f-7853ef9c4642
+100,human,Clothing,198.08,26,High,f9e39ca9-6e04-4efe-b4e9-0d97da1924ec
+101,laugh,Clothing,334.65,68,Medium,782a3bce-3a54-417a-a537-49d22cfdb345
+102,subject,Home Appliances,331.02,34,Medium,fd6d71fb-5103-47d6-8af0-97556ecd5d63
+103,future,Clothing,314.68,57,Medium,984e346b-9045-482f-b646-84f276569857
+104,official,Home Appliances,284.4,53,Medium,eb1b6b50-48d3-4be3-9a9e-f91fe23442b7
+105,ball,Home Appliances,163.99,53,High,f0edefc8-ed52-433c-86f9-00bbc5c85448
+106,room,Clothing,208.76,79,Medium,31feb8e8-cea9-41ec-9a5d-c17da679d2c9
+107,hair,Home Appliances,469.67,42,Medium,0ae12267-bae2-471e-9a42-1ccdcac16755
+108,likely,Clothing,151.2,76,Medium,b631337a-e499-448f-8895-c51992a2b916
+109,you,Clothing,187.3,75,Low,dffbef96-c331-4ad5-97ee-e9757aa51843
+110,picture,Clothing,478.42,43,Medium,01bc9e86-827e-4125-b422-60ef8e8a6e2e
+111,surface,Electronics,417.86,29,High,f90514c6-eec1-4238-84d4-20a990351d22
+112,rate,Home Appliances,59.95,87,High,2c37fef1-5c2a-4bda-abf8-41222d41918f
+113,this,Electronics,156.75,92,Low,6377e8d5-7996-4cc2-b09a-f190c2fd92cd
+114,yes,Electronics,85.79,24,High,e7ca109d-1efe-4a1d-81da-12f2bf3aa3df
+115,new,Electronics,405.77,57,Low,b1a8414b-0459-45c1-ab48-d8235a85e2e8
+116,method,Clothing,450.14,91,Low,392f665a-bb7a-42b1-bebb-f7a081a63721
+117,join,Home Appliances,79.66,39,Medium,acfe3e59-2e02-4e35-bebd-59f7da8d4bef
+118,eye,Electronics,402.84,47,Medium,5b6e6232-6d89-4c61-b288-b68eba014bc9
+119,wrong,Home Appliances,188.81,93,Low,8adad399-a7ec-4395-ad45-4b37ca6ff568
+120,general,Home Appliances,302.5,50,Low,0bf7e8ec-1777-4457-8781-033654236be7
+121,history,Clothing,152.4,42,Medium,846e59a5-697f-4f78-b2a2-d7feefe4a7eb
+122,glass,Home Appliances,357.67,75,High,dfeb87b5-bf1e-47d1-a4da-5ecfe2f18e80
+123,hold,Clothing,323.74,39,High,170286dd-17c1-43ee-b185-8f5648682cee
+124,charge,Home Appliances,139.06,67,Medium,e8305946-f815-4df8-acce-99da70473d75
+125,watch,Electronics,478.29,76,Medium,6dc08754-4b2c-4e52-a51e-658d40b07ddf
+126,require,Home Appliances,112.28,80,Medium,0a99b8de-a9c7-4d7d-afe4-0fde2aa65316
+127,clear,Electronics,346.56,21,High,50a7f244-c5bb-4e13-a36e-de4c748787c1
+128,yet,Electronics,390.63,78,Medium,3fc359ac-2907-41e1-8897-0128d3c762d8
+129,relate,Clothing,31.11,54,Low,461ad8f7-b70a-4197-95b8-57db0725d809
+130,everyone,Clothing,58.4,62,High,f4f57fe7-7888-4c2a-ac7f-8ef6e0434033
+131,use,Electronics,384.28,72,Low,b63b19f3-07eb-45f5-bdad-76502116ef57
+132,administration,Clothing,399.74,43,Low,2dd8c34a-caf3-481b-9f7f-9349e9934e0f
+133,energy,Home Appliances,272.63,83,Medium,f9717d32-0087-4d08-904d-6303c3b5c73f
+134,pretty,Clothing,69.97,65,Medium,ae7faa68-ddd4-4720-a6f5-584c828e95d4
+135,until,Home Appliances,285.92,54,High,def5b479-2aa6-4628-84a9-259a09959e56
+136,take,Clothing,459.31,96,Low,813dec54-d6e2-42d0-9270-6f764c5999d5
+137,cut,Electronics,290.29,86,Medium,9a9d24ac-d764-4941-b3b0-78d246213070
+138,one,Clothing,296.38,62,Medium,6e2aad5e-fa81-4f60-9a55-2f268f35e609
+139,thank,Home Appliances,62.55,57,High,8cc1667c-a523-4258-80a5-df09b612f4ad
+140,apply,Electronics,354.88,63,Medium,eeb6a26a-10c2-4c09-80ad-4cedfe566f38
+141,answer,Electronics,491.92,47,High,1e8cca29-9a72-4c8a-911f-fb66a78181e2
+142,plan,Clothing,269.83,22,Medium,97bc983c-995b-4d25-85c9-e0eb3adb4feb
+143,decade,Electronics,100.1,91,Low,32c80c06-a74b-48b4-b71a-f5864c0d3921
+144,year,Clothing,144.61,37,Low,b3d553cc-817c-46c7-9334-0ae5e4c9cff1
+145,card,Clothing,265.11,75,Medium,cf1f939f-cb38-442c-beaf-0b376d9e7c7b
+146,president,Electronics,390.05,37,High,1b6ca178-ea9c-41d8-a1ec-0d1fb65e098d
+147,state,Electronics,272.75,78,High,32624195-34e1-4a1e-9703-2b42b55dd785
+148,tell,Clothing,179.32,61,High,0177655f-40f0-49ac-8104-2669490b352d
+149,care,Electronics,224.91,21,Medium,b1de329f-6f34-4e6d-8291-7e739a4cb2c1
+150,himself,Clothing,328.3,41,Low,94a87128-d0fe-4274-a6b7-e054a29d8615
+151,yet,Clothing,333.9,30,High,b28dbb6d-eee1-453c-8256-97738af0be0d
+152,person,Home Appliances,250.72,27,Medium,d1b6b811-60c1-4e9b-9e69-dbd78cda586d
+153,trip,Electronics,269.25,61,Medium,d203632e-c101-4929-9a54-5111993c3c54
+154,and,Home Appliances,235.54,83,Low,7dfaa63b-ddbe-4fcc-bacb-112c8e4ecda0
+155,thing,Home Appliances,250.27,62,Low,00ef5fb9-f061-4670-aeaa-c065425e4d32
+156,student,Home Appliances,49.64,20,Low,6d16a9f6-443a-4a17-8453-dfcec670ed6f
+157,win,Home Appliances,115.92,84,Medium,30014111-9753-4a68-8081-ff30aac80354
+158,explain,Clothing,268.71,50,Medium,0793e495-c322-47b3-b836-23f8188bb29a
+159,his,Electronics,437.3,59,High,e94ebbc9-dbdf-49eb-b0df-17bf724823f5
+160,expert,Clothing,413.77,29,Low,43c5b4a2-9145-414e-aa21-105605af19e9
+161,difficult,Clothing,32.14,33,Medium,283258d3-5672-411f-bd84-539b3558bd66
+162,instead,Electronics,273.03,51,Low,42d10c49-974d-46d6-816e-d55bff749d3f
+163,hard,Electronics,446.81,99,High,515a17fc-d172-4859-a59a-4f641ce7c938
+164,defense,Clothing,62.68,25,High,570a1bc9-4e26-47e9-8231-9709a216f68f
+165,son,Home Appliances,323.77,84,Medium,d80a8288-5331-4a5f-ac64-d5466be72f02
+166,affect,Clothing,365.05,92,Medium,e71cd1a2-0d53-44ca-beee-c8c2e3a574ee
+167,police,Home Appliances,97.16,58,Low,4c9036e1-2266-4a5c-888d-f7b48cb95dd8
+168,process,Home Appliances,109.77,100,Medium,5cf3d2e3-c024-44f1-a00d-a7413c89a8de
+169,strong,Home Appliances,145.22,50,High,69ba4fa2-e32e-4b7a-a465-c7a3e3c2d20d
+170,seven,Clothing,11.25,71,Low,1b05ff86-cd0a-4aec-88fd-0e6e57c575d4
+171,behind,Home Appliances,176.02,31,High,7b762705-a2c6-43c3-87cd-d9a554ad092e
+172,fill,Clothing,243.12,81,Low,7a27d1b1-550c-4987-b523-22e383456036
+173,make,Electronics,79.51,95,High,adb33211-a079-40a1-8f32-87b946cff747
+174,opportunity,Home Appliances,303.42,21,Low,3404dead-8c55-47f9-aac9-52ec9a3578df
+175,after,Clothing,344.22,70,Medium,5f246e7f-ff57-4e57-95da-a1a06bd7f65d
+176,avoid,Home Appliances,127.36,89,Low,1a720317-2717-4237-a64c-6c2aa278ea3a
+177,consumer,Home Appliances,118.86,53,Medium,ef917fbf-d415-4f6b-8057-d50caf040599
+178,consumer,Clothing,330.23,93,High,c92ab875-8a83-4d0b-af3b-eb9820eb7fa2
+179,entire,Electronics,364.16,27,Low,fd1b5341-bf08-4873-a1bc-c0cb437926e4
+180,partner,Clothing,392.52,23,Medium,baa1b34f-9519-4e68-9015-525a97a8506d
+181,goal,Clothing,468.52,45,Medium,712a3ba3-d38e-4748-90b6-0619654a6eec
+182,great,Home Appliances,444.31,41,Medium,a9a73b9b-3936-48de-ab7c-f7f09d79bb65
+183,figure,Home Appliances,144.32,35,Low,571ac42b-34a6-4e64-90c1-703cf4fe8d7e
+184,too,Home Appliances,144.08,52,Low,6fb96982-343b-4ca8-8e8b-64294ca3dd47
+185,election,Home Appliances,193.13,57,Medium,6f054fc6-f6fc-4dca-b173-d7281be94176
+186,guy,Electronics,50.19,94,Low,bb03c1df-eaee-4c49-bed0-83cebc560f5e
+187,worker,Clothing,245.02,82,High,6584155c-e532-4040-9ddd-e0c405835635
+188,require,Home Appliances,114.45,55,High,9666013a-6a8d-4ca3-a5bd-67f6bcda9ef5
+189,serve,Home Appliances,228.56,60,Medium,81db82c9-cea3-4b97-9912-a236204eed51
+190,even,Electronics,424.13,40,Medium,8e1844ee-e038-492d-b7f0-577ff8e48cd7
+191,drive,Electronics,451.33,34,High,838e3d9f-3f04-49e9-af02-c2c175160be0
+192,training,Home Appliances,461.73,98,Low,5abf10e3-3918-4e42-b57b-330b42c062bb
+193,himself,Clothing,285.16,70,Low,633e44f1-1bb3-431b-bb03-cf614eb63953
+194,plan,Electronics,393.6,41,Low,3bba16b9-fe5a-4d62-acf1-4ac0a1dcf49c
+195,tree,Clothing,141.81,62,Medium,3275ad0a-8013-4b27-bec1-806715feb0d3
+196,husband,Electronics,379.12,61,Low,e866036a-9b3c-479f-8250-873902e724e2
+197,television,Home Appliances,485.56,40,High,02886b22-db64-4664-aff3-2c9e8e685a48
+198,attention,Clothing,340.48,56,Low,d43c9486-96b5-4b91-8784-7a9c0f7f992a
+199,world,Home Appliances,236.12,62,Low,39c0a8a0-4b92-4c75-bb99-0cfba7f165d5
+200,without,Clothing,248.23,70,Low,bd000edc-456b-464a-9af7-737d74d59f14
+201,enter,Clothing,210.2,33,Low,ecc8d732-5152-48ae-b0e5-7fb1544e4578
+202,per,Electronics,360.91,84,Medium,3214bff3-6f01-4aa1-9293-8805df7d9d2f
+203,out,Clothing,278.42,57,Medium,286cb722-85fd-47e6-914b-67d51678ec37
+204,artist,Electronics,376.41,93,Low,a58a0796-4f6d-42b8-b0a3-90528bb05c31
+205,billion,Electronics,391.88,23,Medium,345facca-6db3-4728-a5c6-7cd62c2ea1d9
+206,seek,Home Appliances,263.46,71,Low,457539fb-05f3-4989-86a0-59995dfe45e3
+207,ok,Electronics,99.57,22,High,b605c6bd-fe1a-46ce-9bbb-77fd2d94bfb5
+208,campaign,Home Appliances,381.74,71,Low,f403cafb-a4e0-489b-bf06-2dc7a73ea8f2
+209,fight,Home Appliances,330.63,78,Low,95d3e47c-5e30-46c5-894f-1f2a47498789
+210,computer,Home Appliances,308.85,87,Low,e9b6fdb1-bddd-4a3c-87cd-b63376985947
+211,avoid,Home Appliances,237.42,38,Medium,ac43be40-6609-412e-8958-3e85cad7cca3
+212,operation,Clothing,253.36,87,High,11c08ac7-b28b-41e8-a6fe-0c048e191792
+213,north,Electronics,407.57,32,Low,002364e4-a5b3-4485-a092-32cbb186302f
+214,bad,Electronics,384.24,55,Low,b40ead6d-7740-423e-bfa2-e639d09f2984
+215,alone,Electronics,91.22,71,Low,a361d91b-28f4-4b56-a3cc-b0ae75d24ea8
+216,plan,Electronics,260.56,42,High,0eb47f3a-d147-4f4f-b6ea-3c14730d1a89
+217,response,Electronics,423.15,48,Low,5113be74-ffa3-4fd8-8582-70e494729395
+218,fire,Electronics,182.28,87,Medium,81a5828e-12b7-48a0-bc2e-8cccee869e9c
+219,sound,Home Appliances,209.91,39,Medium,86b9aa54-24d5-4d0e-8fe6-0f534a52c069
+220,mind,Clothing,201.34,50,Low,35962142-d5c3-479b-af15-52279ad37357
+221,tend,Clothing,21.1,32,Medium,3d10a814-ee77-427f-83df-619a7f95fec4
+222,one,Clothing,369.3,35,Medium,b3817351-0dbc-4500-91a9-f9ea5bedac72
+223,kind,Electronics,264.58,63,High,eb913bd3-ca69-4d50-96eb-6fda45213a8f
+224,police,Home Appliances,236.54,25,Medium,790571fc-cf33-42d6-9bfd-a06c751f86f2
+225,involve,Electronics,54.15,63,Medium,3e8bc7e6-401e-4c41-b943-42d5b84faef0
+226,cause,Electronics,171.44,56,High,6cb88d28-be82-4de1-be27-fba803ff4d36
+227,too,Electronics,37.88,78,Medium,87ea99a7-8283-458d-96df-38a7f587305e
+228,today,Clothing,314.83,40,Low,e0426619-ab74-4ea1-8ec5-87c4097984c6
+229,alone,Clothing,182.99,44,Medium,9beea297-6726-4480-b78e-2b2f377bd699
+230,give,Clothing,471.6,30,Medium,d460858a-cdf1-48ee-81ec-d7edfda3106d
+231,man,Home Appliances,20.46,98,High,fce704e1-7839-4cbe-8c70-12fae85d34e9
+232,most,Electronics,102.92,69,Medium,a1515146-64cc-4a52-bb83-9f957fa06a79
+233,task,Clothing,35.2,39,High,a4715b7e-dd91-44da-870c-08464cf1bd7b
+234,girl,Electronics,463.21,53,Medium,e31d866e-3e38-4b06-82d5-e09c5c314e61
+235,window,Home Appliances,194.83,70,High,b1579dfe-b6e5-4de0-9bbe-17b4789f213f
+236,quite,Home Appliances,328.57,55,High,ad0a301e-f48a-46ca-b2f8-e4225d926b57
+237,sing,Electronics,241.79,73,Low,1b0de9f4-7f61-45ed-af42-019bcbda17c8
+238,magazine,Electronics,411.55,27,Medium,ccb9c05d-eb68-4ef4-a267-5c636990bc59
+239,population,Clothing,270.99,85,Medium,791b6350-61cd-44d0-a4d6-ffac7c0763f1
+240,baby,Clothing,443.13,73,High,d1ad7c25-46df-4261-a62d-2ce936f8bac5
+241,student,Clothing,157.61,74,High,92f2ae56-0377-43fb-a390-d239db8d162b
+242,recognize,Electronics,293.58,57,High,8f11d087-f293-4b06-a0e4-60bc39c76123
+243,remember,Electronics,80.03,60,Low,b121c8fd-2e36-401d-bab5-a059fa2c9dc9
+244,stand,Electronics,27.1,37,Low,1f58ea10-5f71-4ba1-82b6-981295d60671
+245,poor,Electronics,311.71,97,Low,9af7369e-4233-469e-8ed1-4872d0f40fac
+246,soon,Home Appliances,10.56,59,High,e467e918-5672-4854-82ed-a157c384dd37
+247,field,Home Appliances,319.2,46,High,fee154c7-9ddc-43ab-9a3d-fd5acc69cf79
+248,card,Home Appliances,88.78,21,High,e12430da-f680-4935-907f-5af3a5da06e3
+249,add,Home Appliances,132.85,92,Low,42bd7dc4-0f56-4bda-9d65-0e4b3fca1863
+250,last,Electronics,465.51,56,Low,cb94003e-e5ab-43f2-ba5c-16bbb7fdb418
+251,office,Electronics,343.04,77,High,a918b9d4-22b9-454f-8fbb-54fdf074ffc7
+252,project,Clothing,390.81,70,High,e6b9381e-4da1-4111-8575-b9975fb60ae7
+253,more,Clothing,323.05,31,Low,84fed571-dc52-4416-a71e-d7078a5ce616
+254,pretty,Electronics,124.89,25,Low,fe271cf7-5143-4aee-82d9-5eb0307868c9
+255,standard,Electronics,170.99,46,Low,690e4616-bd6f-4408-b6f2-b696d650cd59
+256,cup,Clothing,358.48,72,Medium,4f7ff60d-68a1-402f-bb7a-fa0994ea5608
+257,determine,Electronics,407.04,94,Low,f0ee5903-8b39-421f-9cc0-22d588287d8a
+258,eat,Electronics,241.0,41,Low,a7d014ff-0dec-42dd-9b71-41834d885f59
+259,likely,Home Appliances,422.5,24,Medium,e6b8f48d-d1cc-435f-bb52-b34be457e262
+260,day,Home Appliances,24.26,30,Low,1d7572ba-3bdf-49af-bb5f-5a947bbaa8d8
+261,according,Electronics,50.63,96,High,0e50e3a9-5935-424a-9641-fbc35c6a1e22
+262,high,Clothing,430.56,79,Low,2e450d4e-9632-40c9-bc85-e371b602c344
+263,wonder,Home Appliances,360.25,46,Low,21b8ec09-4a56-4c47-82bb-0a70ff3cf569
+264,reflect,Home Appliances,15.29,80,High,b223a838-7dcb-4408-ae6f-d8ae64094643
+265,sell,Clothing,489.32,64,Medium,d42febd0-6e72-43bb-ae3b-8b83192f53eb
+266,if,Electronics,58.14,92,High,f184b1f9-777f-45db-ab4e-932a70c37a29
+267,control,Clothing,344.45,80,High,b9bb025c-890a-412a-aff0-2a6292c4c141
+268,method,Clothing,344.3,28,Medium,5d14b288-58b9-4ac0-9865-8389425c0cf0
+269,dark,Electronics,346.82,78,Low,1053ebf5-a689-4cf5-b9f5-b7c24864c839
+270,wish,Electronics,360.21,68,Low,f6692d7c-797d-452b-ba51-93460157b36b
+271,red,Clothing,440.83,20,High,8541fc2f-8e2d-4e61-80d2-ff72fcd4c7e9
+272,customer,Home Appliances,129.97,60,Low,2a565458-6917-48b4-a67b-33e98a183c3a
+273,sign,Home Appliances,458.06,88,Medium,02183b7a-a464-46bc-868b-be8ba4bb4d8b
+274,able,Home Appliances,419.6,49,Medium,d914985a-6150-4705-a174-9d79ed7fca99
+275,also,Electronics,388.68,25,Low,a5e883c7-93cd-4345-9603-3184e22378a3
+276,develop,Home Appliances,107.52,76,Medium,06e470a3-37f1-4681-a558-81cbb3b6ac64
+277,particularly,Home Appliances,469.67,47,Low,685c4c03-179a-4817-a48b-3b3a8dd741fa
+278,will,Electronics,147.89,74,Medium,c168ab56-ca0d-46af-a6d2-ce97fd2069a4
+279,specific,Home Appliances,46.54,84,Low,2965a254-4256-46a4-b2f9-cc74923367e9
+280,college,Electronics,80.46,73,Medium,babee1c5-3c65-477a-8cc3-45bfd5d05ff5
+281,participant,Clothing,445.27,66,Medium,d529a8e5-5bc4-4e0c-b3c9-0b3db29c925c
+282,since,Clothing,240.64,61,Medium,184fd1a9-4b81-4bef-a661-4907c6204f07
+283,everybody,Home Appliances,318.06,92,Medium,c1de7beb-794d-46bc-af5b-2b1ff9ebbc0a
+284,thing,Clothing,236.85,37,Low,a4bf56c4-d9da-4b84-be3d-7f550e9999bf
+285,close,Clothing,343.14,32,Medium,4635b60a-be3d-45a8-9b73-e4bf6b149111
+286,whose,Home Appliances,10.16,81,Medium,f0ef9d50-f331-4de3-b49f-bba170caafc4
+287,moment,Electronics,417.61,41,Medium,418a2d42-1c8a-456b-a5f9-e823425f2c4b
+288,individual,Home Appliances,141.49,23,Medium,a5fc1549-d335-494d-8195-887c40fd2dd8
+289,process,Electronics,28.06,61,Medium,c0a20ba9-e72f-46b7-a7d7-64ef2347e3b6
+290,practice,Electronics,318.07,89,High,a1a6321e-4415-407d-a7ea-9469a12b791d
+291,manage,Electronics,438.43,41,Medium,c07f6e56-548c-476d-a189-00dfd13bd3cb
+292,box,Home Appliances,24.65,58,Medium,e59333b7-b106-45f2-8ed8-24e086431b85
+293,movement,Home Appliances,376.28,29,Low,4aa2a771-b79c-4da4-a3c9-0aff344e1f81
+294,large,Electronics,484.29,29,Low,ffa6c074-a684-4dd0-b9a4-44af60a87e64
+295,know,Electronics,475.43,26,High,d0f15470-5cc6-42b8-8060-88c66cc2311f
+296,trial,Electronics,104.61,24,High,87e477a3-bd81-46a6-82c1-cc08f7ef2510
+297,area,Clothing,364.94,41,High,25d262e4-bd3b-467a-8dc5-f7e47667e2fa
+298,particular,Electronics,313.05,38,High,a6edf36b-6382-43bf-947f-22e898cfd0ae
+299,side,Home Appliances,232.69,98,Low,9ff05d1a-4324-4f94-b61b-e9106457ba77
+300,news,Home Appliances,128.35,24,Low,2bf2b276-60b4-444b-a135-19f92a851475
+301,care,Home Appliances,433.51,35,High,bff8c4d3-6d69-4c29-950c-678fe27502ea
+302,decade,Home Appliances,375.62,31,Medium,8b849128-faaa-4390-9124-1195bf45cef5
+303,few,Electronics,493.85,86,Medium,fa259ba8-3e37-4f11-b010-7fa7c75ce2ca
+304,method,Home Appliances,418.2,47,Medium,8f482684-e92a-468b-8a8f-92729bc428a9
+305,medical,Electronics,61.06,94,High,32ea3056-bc60-4a4e-be6c-b5b7fd1d8f1f
+306,work,Clothing,97.05,74,Medium,088d5714-d93e-4f95-b220-cfae55b1036f
+307,poor,Clothing,140.49,69,Low,522e1078-6cc0-42cf-a9ec-82f0ee459552
+308,break,Electronics,441.48,23,Medium,6e9be542-1ac8-4076-9789-3c41e034a09d
+309,development,Clothing,116.53,38,Medium,6397cd15-5634-4bc2-970f-ea3854d47a08
+310,Democrat,Home Appliances,62.25,26,Low,d2f91b60-2d35-41fd-97dc-50b29c3efa24
+311,eye,Home Appliances,353.67,23,Medium,c6519752-ddda-47bd-866b-ea33341060be
+312,page,Clothing,283.29,44,Low,c3f7d317-ff6c-4fb3-828f-577896fe1d27
+313,weight,Electronics,338.88,27,High,eca39733-b91f-4376-9408-de2bcf14d8ca
+314,agent,Home Appliances,480.32,97,High,664f9dc6-4252-40db-b577-a963b04f96c4
+315,general,Clothing,466.06,87,High,24be9f3e-2cff-4b5f-9072-8d0eea758bb1
+316,skill,Electronics,61.22,74,High,e29f77fe-46b8-4546-9567-9d3c52f4f5a4
+317,rest,Home Appliances,88.95,22,High,f481953b-083b-4fc4-b36a-863d78bc286c
+318,apply,Electronics,443.7,48,High,3666cbd7-2503-4213-8fe6-aaa2bf313c46
+319,truth,Clothing,58.58,87,Low,edb0d47f-0ca7-435c-b758-663b1b2fea37
+320,region,Home Appliances,17.96,28,High,efb7996b-ba91-4e08-ba9d-b153970ca4b2
+321,answer,Home Appliances,16.71,61,Low,dd9fd9da-7278-4c54-8618-b77747e1c55c
+322,sign,Clothing,281.8,72,High,03843d94-9c69-4a55-971a-0fb7fad93a36
+323,soon,Home Appliances,194.84,28,High,10f9377a-b612-4ce6-9766-32327f2323c7
+324,include,Home Appliances,340.03,68,Low,bd8b212e-1d74-41eb-826f-929060e081bd
+325,eight,Home Appliances,134.42,34,Low,30af3b26-8533-4f2f-8233-e9b7ff829ca5
+326,human,Clothing,485.84,48,High,bdf27e6b-65a3-45ae-84fe-4b49b0c08192
+327,myself,Home Appliances,28.02,45,Medium,382c8e59-1c1e-499d-9204-465b42e35b7d
+328,movement,Electronics,92.67,46,High,76d0bb33-f83f-4c9a-a7ad-c95351cb91f6
+329,while,Home Appliances,102.18,29,Medium,504e3f76-59e7-4b6c-afe0-1949751c3904
+330,goal,Electronics,431.73,78,Medium,d9697ce1-a863-48a5-8a1d-01def342a75c
+331,professor,Clothing,320.37,76,Medium,a9d87898-6b9b-461e-998f-1908b94c94a5
+332,family,Home Appliances,81.95,38,Medium,5c73231a-055f-4423-b766-61dcfa150ada
+333,before,Electronics,376.06,79,Low,4f3ed148-c6fb-49f3-af12-0e70875b3b84
+334,store,Clothing,461.95,95,High,e811d18c-c7e6-4d22-8961-a52745b151eb
+335,attorney,Home Appliances,67.99,22,Low,94fa8510-d00f-4e9a-94e5-55fc44e942c4
+336,hold,Electronics,313.14,30,Low,91bf15d7-192b-4e9f-a491-02f5f8374adc
+337,size,Home Appliances,17.56,82,Low,f8788626-8c21-4484-981c-5aac5a7ef574
+338,others,Electronics,242.94,76,Low,c683fc8f-8cf7-44ac-a17a-81aa888dab10
+339,popular,Clothing,39.64,52,High,1b3e5743-8f6f-4f4f-bff3-e6e517862752
+340,last,Clothing,330.19,41,Medium,90fef453-3f84-4bec-a97c-711489147294
+341,ball,Home Appliances,190.72,57,Medium,789ba959-3e49-4fbd-a631-2c1bb19c4cc7
+342,more,Clothing,116.77,50,Low,0949cc75-eebf-4920-aaa0-ab2f8d054092
+343,thousand,Clothing,197.03,80,High,9f06ffea-24e3-42ef-9e88-95801469f430
+344,southern,Home Appliances,433.01,86,Low,c16716ec-7bb7-47e0-9734-054335b5c507
+345,find,Home Appliances,317.42,100,High,23e15fcc-758b-4ccf-9818-0dc8444b419e
+346,toward,Home Appliances,461.99,55,High,0dc22804-e61d-4353-a900-9be23b2cdbb9
+347,bag,Electronics,370.45,69,Medium,c21642ba-eba8-4725-91a8-414276cd7243
+348,cut,Electronics,485.9,73,Medium,6238973b-3df2-4827-911d-fb0c2e55943b
+349,nature,Clothing,444.23,59,Medium,c6adcc14-ae29-4dd6-9743-d97a5ed4458e
+350,sure,Electronics,449.08,64,Low,a028a103-c533-417e-8e55-7c408b1a1cc3
+351,left,Clothing,421.03,53,Medium,6b33a3d9-3e9a-4e42-b6e3-4845bc5faaae
+352,light,Home Appliances,135.9,35,Low,94dace5a-b10a-4f16-a0f4-bbcf5acc544f
+353,especially,Electronics,162.96,28,High,8f4350e4-43ce-44d5-b509-a5f995b01a2b
+354,debate,Home Appliances,444.08,58,Medium,f7c1478f-7a4e-44cf-b050-fe92e83ea1f4
+355,light,Clothing,132.42,24,Low,e4ad0b37-298f-481a-8c6f-e50e454b5406
+356,somebody,Home Appliances,396.51,97,High,4bcd879f-fc6d-457c-bf9d-1c47734e5899
+357,management,Clothing,15.8,59,Low,11ec3267-bfcf-43f0-aa78-19bdf9dc27f9
+358,major,Home Appliances,440.11,80,Medium,41fdb2a1-821d-49fe-841b-f87235874163
+359,two,Home Appliances,341.43,54,Medium,5748835e-f8f1-4b13-bf83-ee822d1975fd
+360,rate,Electronics,458.88,61,Medium,c0092c45-25f4-432d-92e7-204c268add7a
+361,believe,Clothing,59.67,66,High,65fdfd31-4753-4fa1-a68e-3b9d92fcd8b5
+362,loss,Electronics,363.58,75,High,8c2c0968-1306-47ab-9fcd-ed2438cedeae
+363,be,Home Appliances,208.46,100,High,5866f72a-350d-46dd-b623-8a911fadbaf0
+364,guess,Electronics,60.31,26,High,acd9b108-9a92-4116-ba4a-0591dbbd3678
+365,others,Home Appliances,354.26,53,Medium,2b82c2e2-6023-4534-83a1-37a089d9d65d
+366,pay,Clothing,335.43,31,Low,b01f1262-790f-42a1-b916-ceaccba0d34e
+367,line,Clothing,45.59,48,Medium,dbf6b13d-c8e4-406c-ba9f-351e1994f09f
+368,say,Clothing,473.75,22,Low,3125185f-b06a-4f52-945e-44cb7120bc91
+369,dream,Clothing,420.21,40,High,2a9aa09e-5ac4-446b-8535-37414a380c97
+370,crime,Clothing,425.3,40,High,f66c1286-73a0-4d93-86b6-6145455fa108
+371,fact,Clothing,422.83,77,High,fbad70e7-a55e-4e17-a003-9acc85ad0efd
+372,east,Electronics,36.57,67,Medium,897994fa-8e67-4483-af8e-672c23f0c103
+373,family,Electronics,484.83,40,High,b68686bf-f3b9-4223-b904-2b4b9531ff85
+374,before,Clothing,121.64,77,Medium,798307ee-5a46-498d-8167-8d56a1fbbd9d
+375,remain,Home Appliances,367.62,23,High,3c029e5c-5252-4fcd-b39b-f493ee3af213
+376,accept,Electronics,156.34,57,Low,24aa1f82-2678-4f64-bc0f-edc0e6056f40
+377,whom,Clothing,154.8,28,Low,16fe9ecf-0b77-4036-9263-848f585528c9
+378,main,Home Appliances,43.21,71,Low,a649ef1f-b4cc-44b8-8da2-26ace575b940
+379,score,Home Appliances,12.27,84,High,d1cc7b7c-6761-45cd-895f-56f0319ff137
+380,day,Clothing,368.3,77,High,dc709602-4296-4609-b5c2-9a4d56777e7d
+381,check,Electronics,285.79,57,High,b409aa79-48e5-423d-b397-c41cec1bb02f
+382,blue,Home Appliances,119.39,65,High,77552434-cf39-4469-afc1-c948f0cb9b05
+383,book,Electronics,37.76,92,Medium,51397f79-8abb-45cc-8cfe-5b9382c33ba6
+384,western,Clothing,387.27,85,High,13d4d0fd-b4f7-4466-96da-317f9102d4cc
+385,red,Electronics,55.79,21,Low,61061a2e-6d69-4b80-8311-3d4b550200b2
+386,operation,Clothing,202.22,69,High,419c5c9b-ab20-40e5-924c-17d5be0f1548
+387,enter,Clothing,322.5,79,High,25b9c401-957d-4bac-b727-e0a014e324d8
+388,task,Home Appliances,356.19,96,Low,f53dd16b-f143-401e-8206-dcf52373c2e7
+389,loss,Clothing,265.06,43,High,934e0ada-0c52-4d55-8286-7d05aae3cc36
+390,size,Home Appliances,103.93,71,High,576c27a0-4ded-4c2e-b95a-f01dcf9f41a7
+391,purpose,Electronics,394.35,22,High,aee4b605-a3ff-4091-a038-149296a8bf08
+392,about,Electronics,202.95,37,Medium,5fa3ecc8-8ba8-4a35-890e-616c684e7645
+393,rate,Home Appliances,21.93,28,Medium,a8d1caa1-b92b-4847-bde9-af5011e63467
+394,bit,Home Appliances,145.9,65,Low,6d37d8d1-bbd3-448f-9a00-b4a82f99e82e
+395,send,Clothing,77.17,34,High,3f4f3660-fe55-4b2e-9000-866c8639b11b
+396,let,Electronics,61.78,53,Medium,95edd316-b5d7-4f72-a20e-13718704b76a
+397,represent,Home Appliances,309.76,71,High,c0d19950-d7a4-47e6-88d8-c67791cfc77f
+398,executive,Electronics,221.19,26,High,40e7e24d-130d-4a6b-84b1-b68dd2fcdecb
+399,own,Clothing,441.62,52,High,cadcc7e1-fa92-44df-9eff-4821a8a390b0
+400,daughter,Home Appliances,29.12,36,Low,a03e77e2-4428-46d8-a63f-7d2b59d65924
+401,final,Electronics,474.47,83,High,78a8201f-c2e3-42eb-a509-01657631d56f
+402,paper,Clothing,104.73,34,Low,f9c223ee-1ceb-4c9d-8fd8-2404bee7201c
+403,necessary,Clothing,32.78,30,Low,39804f15-7627-4a57-9ff9-3f29730dd5b8
+404,adult,Electronics,382.47,26,Low,f1fee113-e1d7-480d-bf6a-e0d721b90370
+405,stop,Clothing,53.06,93,Low,7e96f423-d7f5-4274-b83d-167530a75a82
+406,police,Electronics,378.74,80,Medium,fdb637aa-393b-4271-8bc5-eede1e6db2f8
+407,several,Home Appliances,31.27,61,High,5f125500-4956-417a-b1a9-8bc730125354
+408,put,Electronics,479.41,99,Medium,d6e8b1fe-35f5-4c3d-93f3-c525272ca17c
+409,student,Clothing,54.29,32,Low,7dbfb75a-0090-42b5-b061-825d153e91db
+410,feel,Clothing,161.11,99,High,a2d2453f-2f0a-430a-b38d-9ac6e5298423
+411,score,Electronics,343.12,75,High,4414413f-d61c-45b3-b60a-c4d47b247252
+412,lot,Clothing,442.29,55,Medium,97af8ac5-caab-4293-9229-fa70367dbbb0
+413,total,Home Appliances,493.11,39,Medium,5c2ee5ae-68e9-4097-a1ea-344edc44fddd
+414,authority,Home Appliances,43.91,36,Medium,fd60efa0-0a72-43ec-ac96-339f1e36583b
+415,may,Home Appliances,133.25,66,High,9f77c51b-0cd8-4ce1-964d-778d352fa46b
+416,TV,Clothing,199.65,64,Low,3f5b4db5-11c9-4825-8845-b1ca627e7b5a
+417,much,Electronics,205.31,78,Low,d1dfeeba-3fd8-460e-8943-2420aa74be9e
+418,tax,Clothing,125.68,68,High,d691ecc4-5787-4fcf-9d95-987720ab4aaa
+419,his,Clothing,262.11,30,Medium,c2a22239-0989-4e9c-97c1-1ced0d968e5e
+420,first,Clothing,91.05,40,Low,43574587-6bdf-4cb5-bd98-6574468ffa17
+421,commercial,Electronics,136.27,41,High,f411e486-e18c-4455-854b-67e1783cf8da
+422,concern,Electronics,219.19,34,Medium,ef455b85-6dae-4f15-adf0-f18f25f2c51a
+423,father,Clothing,499.21,46,High,5c5e9753-ece3-4613-bd11-18ee233587ff
+424,begin,Clothing,60.66,40,Medium,a391038e-3c8a-4180-9abf-f236ca17bc72
+425,yet,Home Appliances,459.07,27,Low,1a0fa938-8055-4148-970f-19bed1fc6936
+426,catch,Electronics,82.13,80,Medium,76a09a69-4774-4cfc-99ca-8942374d4fa7
+427,later,Electronics,224.34,40,High,380a3d64-4d88-49ac-875b-a9a900e82118
+428,various,Home Appliances,348.91,56,High,bc151f67-705b-4ea5-8006-f5ad9fdacaea
+429,buy,Clothing,26.59,75,Low,2eda9d55-9e9e-4047-a4be-5e6e5abde2b4
+430,student,Electronics,253.37,43,Low,dea8d44f-48fc-464d-a20a-9eb036b24b46
+431,language,Home Appliances,92.19,54,Medium,fbe5a9a2-6425-4e9b-8a64-276b0fad4e4f
+432,similar,Clothing,447.47,92,Medium,86d83129-6482-46ad-9bb2-22f63777bec6
+433,capital,Clothing,191.4,69,High,bef79f30-bc5e-4fb8-a5a1-14145fac3047
+434,chair,Clothing,404.88,90,Medium,68e68a9a-2375-4711-a4e9-baa7fe3c9b93
+435,almost,Home Appliances,95.18,37,Low,c59322b3-ebbf-4a91-b4d7-f063f7b3cfbc
+436,opportunity,Clothing,80.89,35,High,10e99aa1-c9ac-4350-b8ca-ae5abd1e836e
+437,record,Clothing,253.44,21,High,7f7cd8ab-a227-4291-a36a-f92cd548a526
+438,land,Clothing,231.66,41,High,c0e569f0-c50f-4dda-930e-f45f0aa7107b
+439,machine,Clothing,292.0,27,Medium,d1839fbf-73a6-4ae0-aba0-c14f7c8d7194
+440,mission,Clothing,423.51,63,Medium,c6f17aee-43a0-473e-8c2b-a30253917820
+441,happen,Home Appliances,383.95,97,Low,99b0f5ec-6c9a-4c22-9d4d-e870f0712be2
+442,bar,Electronics,347.1,86,High,610fc2ec-2790-40b3-9e3b-313782c01f8f
+443,ever,Clothing,425.23,91,Low,10305c26-ea19-4ced-b254-a0c75a9c58b7
+444,month,Electronics,440.37,32,Medium,8dd43cc1-7098-4995-8392-45a72d06b78d
+445,former,Electronics,74.45,39,Medium,d26f8cda-2cc6-4ef2-aa3b-6c249963c0bc
+446,first,Home Appliances,370.64,67,High,731132f7-4821-457b-9979-405a9727e1e6
+447,individual,Electronics,268.15,97,Medium,1dd48d61-c2df-4d36-8a05-ceda8b9014c1
+448,million,Clothing,311.92,67,High,6be83e6b-80b5-40df-ae7f-cab713c06685
+449,agreement,Clothing,331.39,95,High,0e9b1846-a965-405c-9f56-ca02ac72c07c
+450,environmental,Clothing,309.11,25,High,0b1fe30d-90ae-4eab-a56f-2a794b3f11e4
+451,money,Home Appliances,400.13,86,Medium,39acd6f1-acb9-420e-b8f3-37eef34f732e
+452,debate,Clothing,223.24,89,Medium,5f3a0b10-90c2-4898-b859-9c830a1f3600
+453,peace,Clothing,47.86,51,Low,659b1e4d-9adb-462b-b3e3-c9eb4c709af9
+454,wrong,Home Appliances,23.63,91,Low,b1351db3-04a3-4ee2-9ae4-64f04185dd85
+455,reduce,Clothing,53.48,32,Medium,15745f09-46a1-4c52-bf7f-60a782a54a6a
+456,customer,Home Appliances,45.51,75,Low,2b58f99b-1060-4cb9-9d5d-4f424bb7f84a
+457,media,Clothing,490.32,51,Medium,7369275e-6938-469f-af8a-c661f36ef29d
+458,our,Clothing,253.72,100,Low,40b168ba-363a-47a7-9718-b3262d35e58b
+459,lot,Clothing,366.57,39,Medium,2ea4c625-1b68-4d8a-9ae5-c222f7836071
+460,maintain,Home Appliances,222.65,49,High,3acf145f-d3a1-42d8-8cf9-ae7779334247
+461,though,Home Appliances,465.26,69,Medium,8a39672a-bc2b-4fa8-ba7c-967b2e7d101d
+462,somebody,Clothing,321.73,80,Low,9148cf44-6e60-4f56-b818-027bdf6c2c32
+463,do,Home Appliances,496.44,92,Medium,2c624262-a7c5-469e-9ce4-f53b1423b632
+464,international,Home Appliances,396.32,80,Low,df318641-d9b9-4dbc-8cdf-8871ecfcc0ca
+465,western,Clothing,90.54,31,Medium,bcfff010-b80f-40cb-8c61-cddd54897e33
+466,top,Home Appliances,285.02,61,Medium,4722d4c0-ea78-47c9-8202-749d626f07b9
+467,attention,Clothing,467.31,79,High,16a20717-fccc-4434-adf6-2ac5c48c2f5e
+468,worker,Clothing,190.2,70,High,3322e1ee-552c-46dc-a58f-15de03664314
+469,identify,Clothing,363.24,32,Medium,2b30e803-90ff-47ef-85a3-f7a008f833bf
+470,meeting,Electronics,127.95,55,Medium,84291b11-1f56-49f8-bb7d-75ec6ec35d59
+471,white,Home Appliances,309.94,92,Medium,73ade742-4a24-4a9b-a451-eb582c2e3b5e
+472,personal,Home Appliances,129.19,70,Medium,35a0d4da-0c9c-4617-8ba1-0e0808afb1c8
+473,population,Electronics,142.2,78,Low,6a03929f-8a3b-4628-9c2e-f12159132142
+474,even,Home Appliances,10.56,76,Low,87b89209-f2fc-4396-8bfd-89a4b0ed518d
+475,church,Clothing,227.46,32,High,712c9578-b476-424e-aee4-43617f24a482
+476,exactly,Clothing,283.81,42,Low,2ae792e6-a846-4c99-aeb4-42e59e3917a8
+477,kid,Home Appliances,427.8,53,High,376235d5-45e0-4451-8e22-e42bbfdb4b2f
+478,scientist,Electronics,340.37,42,High,06101df0-46ac-4d28-98ba-aeb42a3bf1b8
+479,other,Clothing,85.79,82,Low,2107b6af-49be-4433-b7af-db9dfa8899a6
+480,argue,Electronics,346.51,79,Low,24bf85d0-2df7-43ed-840d-22f575bba969
+481,role,Clothing,92.54,42,Medium,9378a72a-f04a-4666-b38c-f52453efe860
+482,continue,Clothing,319.32,86,Medium,b9f32cdc-95c9-4840-b136-3d020a535b53
+483,market,Home Appliances,92.42,91,Medium,7cffd441-adba-4d44-95cb-68c3ad4781be
+484,western,Electronics,216.79,53,Low,1b59447d-1f93-4ad5-bb27-a7f3342ae232
+485,team,Electronics,142.85,58,Low,bc05d1c8-80b5-468e-bedb-e9555f924747
+486,consumer,Electronics,276.0,22,High,1844a045-1c67-48c0-8143-df1b7d779afb
+487,teacher,Clothing,432.97,76,Medium,9510b981-a021-410f-a70c-23f37caa7c6d
+488,hard,Home Appliances,21.29,65,High,dc0047d6-b506-4b44-ae9c-c2458218803a
+489,trouble,Clothing,450.67,83,Medium,ed724f0c-2771-4e5d-9340-bd164af541ff
+490,upon,Home Appliances,109.87,51,High,3bdffd3b-4210-4f0b-920c-8f228f91124d
+491,of,Home Appliances,69.84,61,Low,2bda6d11-537c-42f7-91f6-3c8542739a75
+492,understand,Clothing,299.98,99,Medium,150261a5-2400-4c47-a3a3-893c251bd0f0
+493,friend,Clothing,231.18,65,Medium,475db4eb-cf61-4d1a-bc0b-187742647085
+494,recognize,Clothing,384.41,33,High,2b73e2f9-5aee-49d5-bd3f-26051cf64c03
+495,I,Home Appliances,179.13,98,Low,bb067be3-5504-4d02-9e03-8f522e2f7aed
+496,American,Clothing,124.89,87,High,ff6bb635-7523-4108-a68a-35c4af937959
+497,short,Clothing,382.74,88,Low,dcf64fc3-a6b3-4f3f-9af8-c7512cf5d326
+498,common,Clothing,297.62,34,High,5da9ab61-8a62-4277-8447-d9acb168611a
+499,expert,Electronics,449.91,74,High,62b75674-80dd-41a7-a59e-bd3317c5efe8
+500,step,Clothing,98.2,60,Medium,f5fb8264-4265-4258-88a6-7ce925594769
+501,meet,Electronics,193.25,40,Medium,bbb6a241-a9fb-4806-a7f7-66a7668bd700
+502,price,Electronics,481.68,56,Medium,d4671624-988d-4b1e-9eb0-7921eb76ca98
+503,enjoy,Home Appliances,373.58,95,Low,d606e0c3-e108-4955-b8d2-7892bc604ec1
+504,seat,Electronics,165.81,57,Low,ec3448da-a9e1-45da-950a-abedba4f6f49
+505,statement,Clothing,167.62,31,Low,ff095628-ce61-417f-9add-fbcb97714c25
+506,public,Electronics,371.8,26,High,2aa59a98-3f2a-4809-86b3-4c422daf7bd4
+507,each,Electronics,337.71,79,Low,2bfc9af3-8124-4dc9-9b2d-6d48f33a0597
+508,through,Electronics,203.66,52,Low,45449eb6-3fd2-4901-a700-fb11e12456a6
+509,research,Clothing,67.24,58,High,33f85583-af17-4bdf-a336-98f5ab479d72
+510,finish,Clothing,139.65,66,High,0a719ead-1f5d-4121-a6d6-4807ce61bb30
+511,owner,Home Appliances,294.55,92,High,3dd414b0-3642-4a9c-ba78-fd248f4c8a82
+512,civil,Clothing,279.73,31,Medium,f657aa3a-9066-4d13-96e2-8e29ad6c62f4
+513,list,Home Appliances,145.06,94,Medium,8e9be0c1-eac6-4cdb-83f1-03e283b6f18c
+514,those,Home Appliances,420.82,32,Medium,203f9ab8-9a05-43c6-87bf-029020db0af9
+515,our,Clothing,356.94,33,High,061852eb-f7a2-431c-8a49-b547a41af2f1
+516,purpose,Electronics,186.33,51,High,a0a7d239-7ece-47e2-97d2-b8b7f72d0842
+517,what,Clothing,243.19,89,Low,4684d0c0-e615-4d32-aa19-72d2c487c3d6
+518,consider,Electronics,280.46,89,Medium,1d425f56-15da-4204-bd07-995d0c02f90c
+519,near,Home Appliances,293.76,94,Low,cf6f424a-fdce-4099-8c04-f123e72f07e8
+520,positive,Clothing,173.68,65,Low,a2672c18-3d72-4581-8ea8-2112e3ede67f
+521,official,Clothing,430.61,44,High,f7b694c1-f8f2-47e0-b6ec-ff63f1786442
+522,decide,Electronics,402.27,30,High,0beec094-3e77-4b49-a02d-c0ae371c9052
+523,risk,Electronics,265.31,46,Medium,0323bf43-3443-4bb3-949b-c3a792c15927
+524,fire,Clothing,413.07,61,Low,05d5672e-104c-48a7-a403-52b5a07853bb
+525,technology,Electronics,199.58,74,Medium,56cd4e36-463e-4376-8c69-1f99e19554ea
+526,adult,Clothing,54.46,32,High,779b414e-cd2a-480d-8d1b-021437177da9
+527,run,Home Appliances,181.49,31,Medium,d71f3743-2ebf-4eb9-8339-d48976bfdf6f
+528,anything,Electronics,291.51,32,High,6ea7ea7d-ef77-44e0-82cf-885414040544
+529,morning,Electronics,152.06,31,Medium,07a90f7c-c3f6-42bc-9de1-7196c339a36a
+530,small,Home Appliances,91.97,75,High,ce0adaad-e5ba-428c-82ff-4e4b710e7836
+531,project,Electronics,23.33,95,Medium,b1b910b1-cb09-497f-b695-8b99320d6f1a
+532,this,Home Appliances,342.97,63,High,a1784dc1-bc4d-4b1c-b698-2cbd1f3fde8b
+533,continue,Clothing,475.99,64,High,75931bb7-f411-4f65-86f4-ff4416b603e5
+534,simple,Home Appliances,434.37,42,Medium,d92c6686-5d62-45c3-a52d-4cef86869527
+535,work,Home Appliances,293.88,43,Low,e77c814d-845e-4f8d-975e-5d8b4eded0c9
+536,decide,Electronics,13.69,45,High,4a540560-a503-4b7e-908c-0fc14bc51937
+537,nor,Electronics,223.84,53,High,70be2cb6-f732-417a-a616-988c4ce788d4
+538,despite,Home Appliances,54.35,26,Low,992f4394-e842-46f9-ade7-5dca0ace2b76
+539,skill,Electronics,230.88,30,Low,924f8214-841f-460d-812e-9cea808902a8
+540,glass,Clothing,38.04,76,Low,ac53e383-b3b6-4edf-9849-f401b4ab70bc
+541,indicate,Clothing,289.11,42,High,bdecdf4a-0718-4bc6-8ae8-7ad52d407328
+542,style,Clothing,168.05,59,High,8845f910-2bdb-40e2-b9c5-e5c3fd477088
+543,certainly,Home Appliances,14.56,48,Medium,86ac7160-03a2-48dd-b947-3b1742844093
+544,state,Electronics,406.81,73,Low,cc790717-f9d6-49cf-a616-5ae62525c830
+545,increase,Electronics,296.3,28,High,b055f2b6-9f6f-4aa9-a9cf-5737381bcc78
+546,time,Electronics,295.83,83,High,c0d99286-2698-458e-8a85-8f01a8ab94eb
+547,strategy,Home Appliances,47.6,58,Medium,5bacdbda-5fd6-453a-9d9f-8cbd64676d37
+548,pay,Electronics,459.37,45,High,be1651b9-da6b-4c20-8ff3-62f8b57554f8
+549,beat,Clothing,103.03,89,Medium,df7f5f90-47cd-4722-a4df-5a4bf611320a
+550,guess,Electronics,154.28,87,High,c7a4d7b8-1876-4639-ad1d-03d1f7aec053
+551,key,Home Appliances,389.82,31,High,4337d991-a1e1-4618-8801-20bbbd0cefc3
+552,improve,Electronics,410.84,54,High,326487b0-5680-45a7-9eb5-a494bc7c7b2a
+553,already,Home Appliances,70.83,85,High,88336b60-0d2e-4f26-add3-37af186d2197
+554,bar,Clothing,182.57,39,High,cb518cb7-04cb-4ed8-b177-06c5d70d7c1f
+555,how,Clothing,342.12,47,Low,bb48c6a9-8199-4c99-8bb7-4bf7e8ce0d37
+556,they,Electronics,473.9,58,Medium,da029f7b-1700-49e5-a784-a0a9f6b17a77
+557,whatever,Clothing,191.15,60,Low,bd80b7ad-a1d1-44eb-8414-b0a5fd180454
+558,I,Home Appliances,495.2,63,Medium,5c523a55-2894-4413-a2e0-86776dca21fe
+559,staff,Clothing,49.78,67,High,a15f306d-9082-490b-b022-0eab6cdf1a03
+560,wonder,Electronics,16.75,86,Medium,12da0f39-025f-4731-bc92-1b0a1ce9ace4
+561,impact,Electronics,301.31,93,Medium,6153e002-f1ea-4999-b37e-5e62fb162c9a
+562,as,Home Appliances,105.41,56,Medium,4401f4ed-e4b7-4eab-abce-4b46f8d5b2c3
+563,land,Home Appliances,459.68,29,High,9c6fc06d-d5e4-4407-933c-b47508a94182
+564,answer,Home Appliances,106.33,94,Low,c79dfc15-9f41-438d-ad4b-588da407efe9
+565,much,Electronics,474.85,42,Medium,81c3a5b1-8b08-476c-be42-487b1506f5a2
+566,each,Home Appliances,477.56,37,Medium,99be751a-b12b-48d3-a78d-0c3e10fa8b54
+567,their,Home Appliances,107.46,27,Medium,31e1ff84-a535-4e8e-b809-c69c2a905ac7
+568,phone,Home Appliances,58.03,25,Medium,3429ed35-8ea3-4f5b-bad2-f010eca80947
+569,wait,Clothing,187.28,96,Medium,87e674d2-e8c9-4267-8426-7e3632528219
+570,debate,Clothing,322.73,23,High,3b2fe553-1587-477b-bcb5-ce613b2e12a0
+571,admit,Home Appliances,180.01,38,Medium,00f61d15-75dd-491e-8dca-279e9308b1c7
+572,gun,Home Appliances,207.19,63,Low,32bac559-2700-4d7b-8318-bf06d6024898
+573,under,Home Appliances,70.2,72,Low,bd179bbe-0f81-4ae1-891b-deccf3397741
+574,traditional,Electronics,420.26,77,Low,eee69cd8-9bf1-4aac-9573-499fd5b42d08
+575,mean,Electronics,108.36,68,Medium,a7040360-da11-43f3-99b1-b0929b02904f
+576,analysis,Clothing,419.45,59,High,463af781-3f75-484a-a4d1-65b88e3fe37d
+577,how,Electronics,157.06,58,High,b28c675e-39e7-4210-b6b5-caf5dfb998d1
+578,west,Home Appliances,372.34,71,High,cfa6d160-2c80-4358-82ce-26cda82be847
+579,recent,Electronics,233.37,43,High,08f5297c-d9f3-4b2e-842b-9da63bc3412b
+580,style,Home Appliances,346.61,83,High,f71a85ff-f910-45e4-be53-d40ced05b4f6
+581,recently,Electronics,310.14,81,Medium,f3d2a829-1b80-4cae-a1d5-0a38aba25582
+582,there,Clothing,58.68,69,High,d3d24783-8845-4998-a5d0-2b522559469a
+583,their,Home Appliances,221.11,71,High,c61953aa-2d80-4f2b-b897-0026706c3390
+584,government,Clothing,329.99,30,Medium,8dc41c73-e011-4456-acca-688714edfe7a
+585,teach,Electronics,102.56,51,High,372afa4c-0d8c-47a6-ab01-79cd868b340e
+586,amount,Home Appliances,29.62,93,High,a2e5c7a4-c2e2-4c49-8893-7a57f688979b
+587,figure,Home Appliances,300.62,62,Medium,2bb68bfb-0925-47f7-87a0-360c7303008e
+588,thing,Clothing,288.71,51,Low,f0396635-6dd6-47b5-992e-af10dd455f56
+589,find,Home Appliances,19.91,35,Low,1636d6fa-a515-4938-b280-4abd565b670a
+590,police,Home Appliances,349.46,85,High,c841f92f-7bee-413b-8ccf-2f6f69a477f4
+591,source,Electronics,47.92,20,Medium,22c5faa3-d431-4433-9201-3b4bb4fbf809
+592,suffer,Clothing,107.73,20,Low,97649fb8-8562-40d8-b5bc-454aceb23744
+593,whatever,Clothing,268.52,38,Low,3849fc1d-9f3a-466d-8ca6-af6457c6ea98
+594,leg,Clothing,54.03,43,Medium,5fd47111-e89d-4096-88a6-c6b8d69b2fbf
+595,cup,Clothing,142.04,41,High,12e79e6b-c14e-4818-b875-3e651f48a21a
+596,mouth,Clothing,344.23,61,Low,38e9b93c-f19f-4e85-8a5e-b48f456c8226
+597,Republican,Home Appliances,332.41,72,High,6c93ed44-ed4b-49a4-950f-37ec321ca7f3
+598,beat,Clothing,118.93,94,Low,00627176-5846-4af9-a29e-b5b60f834171
+599,strategy,Electronics,82.58,38,High,e43516c4-6f97-4924-9d4f-88af58228f3a
+600,talk,Electronics,493.3,34,Low,685fd1d6-f9a4-4bd5-b675-61dd2ee6a929
+601,success,Electronics,467.19,84,Low,f3cb46f9-1839-4749-b341-01dfe7f57d12
+602,key,Electronics,264.71,91,Medium,471b90a1-3284-4b72-bab3-f6764926e59f
+603,four,Electronics,389.94,33,Medium,40049bd1-23b0-40d4-97a8-6148ee53092f
+604,growth,Clothing,10.89,41,Low,81c79fa3-c32d-4c9e-903d-083a627d4f75
+605,what,Home Appliances,77.8,28,Medium,2b563b6a-db3b-4e1a-a153-83b06730fa05
+606,cup,Clothing,99.18,69,Low,4cdd47ef-2937-41a0-8a94-8ae366e7f2bf
+607,together,Clothing,106.97,89,Low,9abbb5b1-fa46-471b-b3f0-cb9f3c4258dd
+608,sense,Clothing,96.51,37,High,4dd5adc3-f577-413b-a4de-d8478992105c
+609,camera,Clothing,337.0,37,Low,1e6fb9df-4ec4-4a03-ab25-77b05d62b284
+610,player,Electronics,177.61,100,High,8335b070-dbd2-427c-a0a3-4b67b1676d66
+611,cell,Electronics,306.3,47,Medium,1e37997f-86fe-4121-99ed-5d4030cb9cf2
+612,look,Home Appliances,353.17,68,Medium,b1c74310-07b4-4678-9d9c-7b759fdb1071
+613,wall,Electronics,174.71,23,Low,0611e616-7bdd-469a-b8c4-c476a74be1cc
+614,officer,Clothing,178.3,45,Low,01a750da-2ff2-478d-b1c1-5a2466c7c9c6
+615,yes,Electronics,300.59,98,Low,ca04cfe1-fdbc-487e-acf4-ea63cbc5143a
+616,college,Electronics,215.1,70,Low,b9e57122-d53c-4789-a4db-d49045186809
+617,begin,Clothing,315.97,89,Low,001cde6b-0f7d-4eb7-920d-6a28d58aa3bf
+618,article,Clothing,329.02,23,Medium,6f0cead9-8fb7-4950-bcfb-65dd7867603b
+619,without,Electronics,92.49,26,Low,bd20119a-af5c-4753-9e85-2bdc5e5125c2
+620,analysis,Electronics,49.24,25,Medium,4ac70978-5e8e-4245-ba41-b3253e9a0cd9
+621,heart,Electronics,277.83,73,Low,a7cb66ba-27da-41cc-9db2-3817f8fcd073
+622,room,Home Appliances,383.02,23,High,ccd77ccd-55ed-48f0-9413-1c99fbee7d3a
+623,take,Electronics,101.7,43,High,65daa469-2b44-4a0d-82bc-40b4954173d5
+624,employee,Electronics,473.93,72,High,fa7ada0e-df94-4dd4-8030-17ad614603e3
+625,prepare,Home Appliances,185.82,41,Medium,4108e119-dc47-41e9-b013-a8cad6ebea78
+626,job,Home Appliances,45.85,69,High,24412c28-e457-4c18-b77b-f34d80d3f480
+627,late,Electronics,257.5,66,Medium,f6119a9e-7e77-4027-b12b-244d1107c38f
+628,per,Clothing,101.82,74,Medium,6c78e5d0-95d8-4456-83a2-4df52bf848d6
+629,very,Home Appliances,192.74,37,Low,0fd7a8d6-90ff-42ed-bff7-afda6d347d02
+630,movement,Home Appliances,187.62,88,Low,cf43b0d5-9faf-4e66-a17d-2d8b487c0a33
+631,soon,Clothing,262.58,25,High,c30f87c4-b670-4a72-b9aa-8ed4783330bf
+632,produce,Home Appliances,393.4,36,High,48d0afd7-1854-4b7d-81cc-0bfeea7bc609
+633,marriage,Electronics,62.51,33,High,ca538a8a-0438-4208-a6ba-01d95a594340
+634,summer,Clothing,488.33,33,Low,02830619-959a-4cdf-8d84-140da863bafe
+635,three,Home Appliances,486.65,83,Low,3cc18efa-756e-488a-8f27-30ab92d0c727
+636,agree,Electronics,102.23,78,Low,41a8d28c-4319-407e-b144-ca303bc0353e
+637,fire,Clothing,353.68,31,Low,2c740e0b-7269-48fd-8059-1cace6a0d771
+638,student,Electronics,24.81,71,High,6d15ee76-57e0-431e-9ee8-c282504ac675
+639,enjoy,Home Appliances,18.36,50,Low,37dc471f-7bde-4dc5-ae0f-548d6ec0e55b
+640,she,Home Appliances,244.41,54,Low,15ad86b0-d679-43e5-b33c-58c53f03d299
+641,one,Electronics,449.95,63,High,2352b2c4-ef1b-436e-9762-ea83a839038d
+642,hand,Electronics,120.45,78,Medium,55a72f83-cea7-4e69-a039-477bd5b985b1
+643,four,Clothing,286.07,23,Medium,4bb96dec-d284-4b7a-bada-3b9f0f3c64e2
+644,sport,Electronics,242.59,76,Low,30af0ad5-f5b2-40ff-859b-64ee09519d86
+645,worry,Clothing,374.55,35,High,dc9072f9-78af-4dbc-974b-b8b11e2cef6c
+646,in,Home Appliances,184.84,94,Medium,386039ba-c76f-44af-9527-2cf97bdf9492
+647,experience,Clothing,494.4,75,Medium,c1479529-53a6-475c-b340-314fd0cdc231
+648,war,Home Appliances,429.52,87,Medium,6963a199-c0a2-4c15-971e-d3ec7a8167d1
+649,win,Home Appliances,318.1,91,Low,0683bdad-de9a-44f6-b096-054cb163b6ec
+650,window,Electronics,378.84,26,Medium,fc9d6f8b-9639-4265-967d-4928e9126d89
+651,explain,Home Appliances,169.66,97,Medium,158f69bf-0e7c-424c-91ad-108d43fe8e13
+652,character,Home Appliances,75.26,65,Low,cf9abb73-b6fa-4602-90c5-8a2c7e543545
+653,first,Electronics,354.75,25,High,5c7e6a10-9f76-4ba0-8934-bf4bd54f4ed4
+654,adult,Home Appliances,353.19,91,Low,d4e11e1e-8189-4371-8feb-2f39c26212d2
+655,door,Clothing,423.08,63,Low,af2d56ae-7319-429d-a8d6-bb6af7c4a0a0
+656,guy,Clothing,294.78,92,High,7442bfc3-8961-4eec-9cb1-7c75556aef65
+657,experience,Home Appliances,313.71,61,High,0f51b000-95e2-4db0-8b13-4168a3f00fd2
+658,front,Home Appliances,139.24,22,High,3884f2f2-e2b6-4619-a81f-02aef1e4e8a5
+659,economy,Clothing,487.26,62,Medium,0310f0c3-02d8-4d85-828c-1a56f1f95304
+660,article,Clothing,257.0,36,High,e29318a1-be9c-4134-b8e8-ddb410c8881d
+661,difference,Electronics,180.61,31,Low,9f272294-1f1e-4490-ab42-c3cd63ff08d4
+662,today,Clothing,412.44,94,Low,77627ded-e87e-435c-adc6-f82d0f9d379c
+663,voice,Home Appliances,56.59,98,Medium,1cab2369-d77d-430f-ab70-63641c71cea6
+664,community,Clothing,106.97,34,Medium,c938f98d-f8de-416e-bf63-3ec594cdf487
+665,ask,Home Appliances,183.81,60,Medium,26c8c530-591d-49d6-ba8f-030ca9e95f71
+666,everything,Electronics,262.24,20,Medium,f68d5cb0-ff4d-4f60-87e8-f68b2ac7b8ed
+667,him,Electronics,111.28,77,Low,789d353a-df35-46f5-a990-18ff4aed5759
+668,identify,Home Appliances,373.79,23,Medium,0adc886f-bd98-4539-8976-4b856d3cb4a6
+669,environmental,Electronics,180.31,69,Low,9d8ebd67-c840-4220-862f-d8001d3702e0
+670,accept,Electronics,366.19,49,Low,6592b703-5a6b-4f0c-a322-2c574867532a
+671,sort,Home Appliances,180.54,99,High,48f7e7db-a883-4e6b-996e-67012d110abc
+672,matter,Home Appliances,52.17,72,Medium,1d04faf6-8f28-4c9a-9a63-f5c274209adc
+673,all,Home Appliances,47.68,91,Medium,890a1acc-791b-4cc0-b134-4bbf75bba41a
+674,discover,Home Appliances,430.86,52,Low,7fafc00a-a755-4dbb-a389-a446c4817625
+675,national,Electronics,230.05,49,Low,0992cb80-6cc7-47fa-bad3-735f78bb3090
+676,organization,Home Appliances,349.54,75,Medium,2adc4d5a-68a4-4c07-826d-5e60d2b2df3c
+677,hear,Clothing,98.77,52,Low,45f99538-2a6e-4ef3-8193-5674f7080868
+678,deep,Electronics,329.68,31,Low,46bdc926-9014-436b-ac62-253f6d4ad2b4
+679,something,Home Appliances,10.69,91,Medium,e560b502-cd3e-4e1d-8ad0-3a874ac18fea
+680,play,Electronics,349.17,77,High,b9124722-7588-4385-9757-7a470efcd4eb
+681,myself,Home Appliances,110.97,76,Medium,3fd3eedc-459c-42c6-98bb-191e9b4c4a80
+682,ok,Electronics,491.65,64,Low,72bbbb78-038c-4d93-b43a-9772f69bb1e7
+683,air,Home Appliances,67.78,84,Medium,8d19876f-9523-47b2-b4d8-8d3cea8d2624
+684,left,Clothing,174.66,81,High,ae860f3b-c146-4abd-a1f3-8bd59c95c981
+685,bill,Clothing,457.82,34,Medium,981628ac-0a5d-4665-8576-98c50c49a8ad
+686,design,Electronics,459.97,93,Low,72c9ad5f-a928-487f-82d5-f0a105682a52
+687,language,Electronics,143.48,52,Low,653672aa-82e4-4b14-a212-dd88400f1b87
+688,hit,Clothing,17.29,58,Medium,2548347b-46bc-4cfb-804c-b47dc2682316
+689,nature,Home Appliances,252.67,71,Low,6f83141d-dbaf-4ed0-909f-8b1e37ffd481
+690,finally,Home Appliances,32.65,62,Low,1460f6fa-d5e9-4c2e-8aa5-5b59df44e681
+691,often,Electronics,370.49,38,Low,05b2a22e-9422-4b93-8eb5-fc3800d38426
+692,among,Electronics,396.33,26,High,a6bf9c81-af2b-455e-81d3-4b52a81586bc
+693,game,Clothing,338.28,88,Medium,94f6e329-9db2-4c48-8488-4b283c9bf801
+694,on,Clothing,216.48,44,Low,20005863-c57a-4a26-bd4c-9ffa8f0829a5
+695,use,Home Appliances,436.97,63,Medium,2513af77-d8e3-4761-94c4-d5bac5dfa60c
+696,but,Electronics,68.11,32,Low,eb042a5c-29d1-48cc-8feb-6164a86383aa
+697,color,Home Appliances,265.3,90,Low,5c5a83e0-2ab4-410b-b613-e1e9b924016f
+698,among,Clothing,156.64,33,Low,2f868cb2-49ff-4489-8999-83c915cbfc70
+699,institution,Home Appliances,24.0,92,Medium,11f177bf-bcd4-4baf-a790-599c83e574a0
+700,keep,Home Appliances,271.52,41,Low,2818bc96-aabd-4c7e-b9ac-f078da89d81e
+701,near,Clothing,431.07,50,High,fe9c25ae-5457-43bb-a094-a92710165b82
+702,whatever,Electronics,110.01,62,Medium,6f413526-a458-4bbe-8b21-f893d335c398
+703,most,Clothing,491.5,90,Low,91591c4c-e2e8-40ba-a8db-24c3b7c0a432
+704,big,Electronics,417.02,82,Medium,dd469f0f-f5bf-47c6-b843-24baa2f24538
+705,customer,Electronics,161.81,31,Low,cea6ecdc-321b-456f-a3d4-7534f830998b
+706,alone,Electronics,367.55,48,High,e5975b95-2466-447f-80d7-9d9a74d62d16
+707,visit,Clothing,11.95,39,High,a2d2d307-17db-4ebc-b882-e5f726d76d0b
+708,perform,Home Appliances,96.04,50,Medium,022b814d-13d0-424d-81b0-be360783a29d
+709,mention,Home Appliances,34.35,23,Low,e4e0cbd5-32a8-42bd-8d22-f1de5df5fbef
+710,world,Clothing,26.31,71,Medium,041bf4ab-3e45-45b9-8336-77fed7ab8e50
+711,region,Clothing,249.64,96,High,cb960602-71d6-4e0f-a6b7-b9e742e4638b
+712,subject,Electronics,227.93,94,Low,04360074-01c2-4336-820b-d649cce3af63
+713,wife,Electronics,206.33,35,Low,666ace49-8717-492f-853c-c6910a24dfc3
+714,claim,Electronics,237.2,47,Medium,be4669c6-bcf7-4ba0-a4f5-8e39b1caeefc
+715,challenge,Electronics,425.83,42,High,c19c1f9e-01a3-4c37-b99d-3742c8cfc6a6
+716,easy,Clothing,231.35,67,Medium,169c4d90-f871-4f7f-9708-64fa83a8aa3d
+717,cut,Clothing,469.9,44,High,e110df74-4f2e-4856-835d-cf122320b704
+718,program,Home Appliances,215.76,62,High,e410affd-49f7-4ffd-b974-ab787aad39fe
+719,professional,Home Appliances,284.47,20,Low,89d43dab-9cbb-472a-977b-ab77dd287dc3
+720,station,Home Appliances,13.31,43,Medium,52a5940d-a059-4ab7-a51b-534030fabda0
+721,least,Clothing,77.53,78,Low,f0bc1515-2494-44ee-befa-48d5f6f2cbfc
+722,describe,Electronics,73.78,77,Low,6b8b5cce-9ee4-45d7-a60e-c71401866781
+723,head,Electronics,241.88,29,High,c5203dde-15cd-49b9-8f21-5b0e05528265
+724,same,Home Appliances,82.48,83,High,f58ded77-446d-4c88-a8a9-2de76061d2f5
+725,new,Home Appliances,324.48,100,Low,4421c1fb-9ce7-4027-823e-c3f1d2d2882e
+726,list,Electronics,105.39,86,Low,d106a64e-ed58-485c-a57a-2224c7a45095
+727,until,Clothing,461.34,98,Low,3de57bda-f803-471c-ae2e-b01f8bca5be6
+728,much,Home Appliances,203.02,75,Medium,1f99826b-9bde-4ddf-ae7a-d5b40b04bd2c
+729,next,Electronics,296.22,29,High,31069cd8-44dc-4cc4-a422-0af72abf5d61
+730,experience,Electronics,297.8,74,Medium,c7199080-00e0-46fa-b93c-29bbcbd6f8b5
+731,hour,Clothing,475.21,84,Low,bd848b90-dfa3-4908-96e2-8caab116de41
+732,figure,Home Appliances,274.66,62,Low,a81a660f-5c01-43d7-b038-ce90b847ca26
+733,open,Home Appliances,57.92,41,Medium,193ef639-6ce0-4835-9fd0-6db8a7f3b760
+734,before,Clothing,12.86,79,Medium,bf76d840-313c-4e11-8308-4ae58f9eb8dd
+735,college,Electronics,291.8,25,High,8df3dfd4-e692-4c5a-9b68-8cd31ceeb3a4
+736,property,Clothing,408.29,82,Low,d2e87677-e8f6-4125-8e4b-d6bea434cb95
+737,under,Electronics,485.59,73,High,1a39665b-f1c4-4c61-9208-3da42247ac17
+738,bring,Electronics,241.01,78,Low,4be38200-846d-4973-87a7-df7a404b5804
+739,president,Electronics,376.32,94,Low,b2c731b5-fd5f-4f82-92e3-47e8bc45bff7
+740,American,Electronics,148.82,91,High,905bdc0b-5aed-4409-9fe7-d956909f2ef6
+741,language,Electronics,55.69,95,High,5d300265-494e-480c-89c9-18bfde9fc65f
+742,attack,Clothing,16.34,29,High,af4eb997-4e4b-4113-b0d6-1f1e310ba30c
+743,stock,Home Appliances,269.35,29,Low,99a132a1-03f8-4f3e-bbcb-6ca6da25e462
+744,political,Home Appliances,419.02,59,Low,2ca242c3-2abc-4f4a-aa99-e9a76ff32299
+745,order,Electronics,195.95,100,Medium,92564746-e3ba-43ba-8632-76ca44d33883
+746,too,Clothing,477.27,92,Medium,6367c06e-c30a-4363-b10d-d4582f2804cd
+747,evidence,Home Appliances,36.17,78,Low,848cd5ca-c501-4f71-96d5-c91b0c8ebc16
+748,outside,Home Appliances,314.53,65,Medium,acfec296-948b-4740-8351-7e9c01277fe4
+749,democratic,Home Appliances,463.15,86,Medium,ce68b6bb-8e43-46c4-9cc8-94bf9edc9261
+750,establish,Electronics,291.66,51,Medium,6e567f11-c2b0-4396-a7a8-7bd62566b75e
+751,federal,Clothing,481.11,92,Medium,7e346695-19be-401e-b402-276b2085ab9a
+752,town,Clothing,14.83,65,Low,e4863c02-7a32-4e91-95a0-ebfb61dcb86e
+753,whose,Electronics,346.15,48,High,93951add-85ad-48b4-9a73-e7cc85ba66e7
+754,already,Electronics,162.24,24,Medium,a6076e66-77f8-4fd1-a853-f4ccdea11ad4
+755,consider,Clothing,150.65,58,Medium,c6168793-f6fa-4719-8024-5856f6a1e20d
+756,box,Home Appliances,408.63,29,High,a31e3793-4ab4-407b-8cfe-b7f1417ad492
+757,game,Electronics,213.21,36,High,f2508de5-f9f0-468a-bfaf-84ae1281db90
+758,film,Home Appliances,48.42,82,High,67fdecc9-f28f-446c-9ff3-3ac36bf79f95
+759,station,Home Appliances,180.14,81,Low,0dcb4ec9-4941-4890-8d7e-c56d1d732020
+760,statement,Electronics,72.08,38,Medium,08793eac-2b42-4d94-9796-87a613b419a7
+761,tree,Home Appliances,456.55,100,High,01ecef44-95e5-44cd-897c-e82a052c2bdb
+762,fall,Home Appliances,406.8,64,High,19974685-01ba-4da1-9269-80bab0b73543
+763,test,Clothing,435.86,78,Low,3e07dfe4-a37c-41c5-9843-68d4a35be506
+764,bill,Electronics,392.05,94,High,a11b9890-d3ab-4dfa-bb46-a422e6d30e4d
+765,plant,Electronics,390.04,85,High,0f633837-c378-4bbd-9eaa-ce06d17692a8
+766,whose,Electronics,395.95,33,High,408ef85c-c74a-47fe-8b9d-9e28f5757e76
+767,show,Electronics,351.1,97,Low,1233e99d-4a2b-4b86-8d92-5f00686f0611
+768,speak,Electronics,264.72,29,High,91b3567b-a006-4e77-b91d-4967b055ef9f
+769,together,Clothing,490.16,43,Low,8d19b6e7-de62-4266-b0f0-9b8609ff3be7
+770,line,Clothing,132.03,75,Medium,dc2578bd-4646-4d77-b469-8eb82a5a177b
+771,need,Home Appliances,484.73,38,Medium,bcb529fa-5b27-4c61-bb9e-d71d7b065951
+772,seat,Home Appliances,330.22,99,High,04a46bd4-0b5e-40af-ab30-ce704ee0b372
+773,so,Home Appliances,99.69,59,Low,19c916af-6271-41ae-9224-20e7bfabac68
+774,exist,Home Appliances,318.73,63,Low,1352bd95-b8be-40e1-8224-6965d87686d7
+775,glass,Home Appliances,410.86,25,High,02c8ef2b-c227-41bc-8b88-074e25f1bfe8
+776,include,Clothing,169.31,80,High,49e053bf-0dbc-4c8f-977e-2f7c818754e4
+777,culture,Clothing,234.49,89,Low,804105fd-799e-4459-a562-a7819a8b020b
+778,north,Home Appliances,446.43,42,Medium,379b7803-2ec7-4817-b9db-616809ff2833
+779,firm,Electronics,436.18,89,Low,8acf7197-553b-434f-94a9-d08666ea8070
+780,road,Electronics,43.23,85,High,791128f5-3d9f-495e-a0e8-5d24aa78d684
+781,meet,Home Appliances,179.73,86,High,86dc4f38-69e2-4eff-8b4b-9520acaf572a
+782,rich,Home Appliances,113.61,74,High,3ec47a5c-75d1-4428-934f-fb23a5d47209
+783,happy,Electronics,433.05,84,Low,beff5f8f-c3b9-4eef-a11b-5ca4513a3dcd
+784,senior,Electronics,457.82,85,Low,fda6707d-83ad-4753-ba18-fa583d4c82c3
+785,begin,Clothing,146.06,76,Low,f0df2d71-6799-4584-8574-6148173a4a43
+786,community,Home Appliances,364.33,26,Low,ec62cb20-4e3e-4738-ba7a-499b33bbbf0b
+787,popular,Electronics,490.97,97,Low,436cb289-8e8b-4d61-bc51-9a3d4864ce5a
+788,close,Electronics,444.98,76,Medium,241dc78b-0b21-4920-8a92-a098737b0090
+789,air,Home Appliances,235.08,41,High,11e508fb-acc0-4a35-954a-9fbfbb0391fc
+790,you,Clothing,25.17,63,Medium,fbac1fce-6f12-4b19-bc46-27a6cfefa40a
+791,apply,Electronics,215.17,41,High,fa01b7dc-07e7-4b84-ba79-d15757b98a32
+792,difficult,Electronics,320.45,67,Low,79332beb-7df7-4e4a-ba69-058a101b6a38
+793,morning,Clothing,228.91,32,Medium,11748a66-9bc1-4ecd-b1d4-ca93d7735edf
+794,save,Electronics,494.94,62,Medium,1b68da3b-81e4-4c3f-afe6-c0dcf1f87b56
+795,think,Electronics,216.39,73,Low,782a9e93-d388-460b-b4d4-1041c56572fb
+796,door,Electronics,472.7,48,Low,fc534d96-273e-464a-bac7-6b5887ad42ea
+797,arrive,Home Appliances,292.4,43,High,d6e4422f-57c6-42d5-b9aa-93b49a47c3f8
+798,guy,Electronics,55.81,87,High,23075bc1-9bf3-4fc8-aa68-0feab6836f8d
+799,popular,Home Appliances,354.0,24,Low,352f4eac-d6f1-4c86-b1e3-0cf68f5964f7
+800,people,Electronics,162.29,89,Medium,48992f9d-5614-4207-a169-580028e89dc7
+801,particularly,Electronics,441.03,40,Medium,bb4dd43f-c350-4690-8770-e3fa4d1e3c83
+802,use,Home Appliances,266.9,61,High,e4f67be6-7630-49ef-8e5a-f5eb65f93079
+803,condition,Clothing,365.34,47,High,6a2fe1bd-e45b-4a3a-abb3-75998729f60f
+804,at,Clothing,213.03,92,Low,d6054990-7a09-4f10-917b-46e3db63d897
+805,table,Clothing,381.57,83,Low,8f6f41e8-2769-4df9-b53b-411f42d9173e
+806,eight,Home Appliances,497.57,46,High,26766de5-92ce-440c-89a1-7ba234d240ba
+807,movie,Clothing,389.91,82,Medium,26541087-d228-4ef8-9c21-7f86a8a13125
+808,either,Electronics,45.96,70,Medium,b6cec92c-3420-4bd3-8bc7-176b701f49e8
+809,north,Home Appliances,328.68,70,Low,696bfb09-83f8-4f89-a410-b2d9778b7393
+810,material,Home Appliances,111.07,98,Low,cfc0ab15-4816-4f6b-8b03-9b6fb821fed5
+811,condition,Clothing,79.33,37,Medium,419278b6-4f90-47ed-b481-aab53716092e
+812,couple,Clothing,34.95,41,Low,21dafaa6-3b9a-43bd-bd6a-9465f8d239ea
+813,head,Clothing,295.99,39,Medium,617aa6d0-8514-4f84-8b11-ecd40b2a4a76
+814,condition,Electronics,320.47,48,High,cbb828d3-18e2-4242-87b5-e7ebfe115200
+815,space,Clothing,277.1,92,High,07743928-83fa-4c09-96e3-15f938223c8f
+816,case,Clothing,339.83,51,High,b1ae760f-65ad-478b-935c-655e0f0bc8a0
+817,training,Clothing,273.14,87,High,e967dd7c-25ef-4134-9eb6-ef4ab5636993
+818,station,Electronics,454.91,76,High,e2dc3449-c837-411e-b5aa-698c46020721
+819,reveal,Home Appliances,262.27,32,Medium,ffc65c2f-44b0-4a66-9f3a-f7da5b14d000
+820,financial,Clothing,453.13,67,Low,0e6909f5-985c-4ef7-8056-ab8f5d1a4ee0
+821,third,Electronics,186.66,88,Medium,eaab494b-661c-4417-a37f-0ba123c5c1a1
+822,entire,Clothing,398.27,100,High,3460394a-225e-40c3-982b-e083810bf8c4
+823,single,Clothing,354.47,94,Medium,89840b99-6f63-4544-8de8-255ea7ca6702
+824,bar,Electronics,113.95,77,High,055ccc1c-5116-4ef4-966d-26508d7a1a23
+825,production,Electronics,148.69,94,Low,e197f636-ecef-4467-9bbf-ab75c34deb33
+826,senior,Home Appliances,48.42,72,Low,910bc599-7b1e-4272-a5c7-bcde9d4b69d5
+827,coach,Electronics,263.13,80,Medium,aa4fcfab-5e88-4ad3-a394-7332863f3ab6
+828,character,Electronics,334.52,60,Low,d8588f4a-d12f-4adb-87e8-adf88b82aeb6
+829,book,Clothing,496.42,65,Low,55ded412-580e-4e00-a41e-1e6ee73ed10d
+830,billion,Electronics,187.07,68,High,3361f1e2-53d6-48d1-a81f-69bab64e15e3
+831,series,Home Appliances,99.81,92,High,da51d61a-d64b-4b4e-92dd-89b7d599fb2d
+832,court,Clothing,285.35,47,Low,5056d4fc-9da7-44b9-80a0-e96bbc00b647
+833,future,Electronics,55.63,35,Low,b42463f1-06dd-452b-9c2a-1dbf43e90b00
+834,similar,Clothing,262.34,98,Medium,0ff2fd1b-2a5e-46b0-9c79-064b6ce16be3
+835,address,Electronics,136.15,44,High,3765aeed-7f79-455e-af02-34b9ba0807f0
+836,international,Electronics,327.67,84,High,1eb4a64a-0845-406b-8318-11d7c398b50f
+837,south,Home Appliances,45.01,38,High,5ab7894f-a4ff-4b53-b2db-3d46446539c6
+838,population,Electronics,196.11,60,Medium,0c844ee8-e7a9-4203-9ea4-d5d78d84bee8
+839,traditional,Home Appliances,28.61,42,Medium,e8c49e05-85f8-4903-a3e8-415e68d36075
+840,artist,Clothing,31.48,34,High,bca3b60f-e59f-475c-b40b-010df3073391
+841,little,Home Appliances,200.01,62,Medium,db9bd647-97d8-4ca6-81ea-4c5c46c737ac
+842,industry,Clothing,371.83,23,Medium,04a53a5a-59db-4ef4-81ff-271658204b2a
+843,find,Clothing,309.59,38,Medium,ba95b2f1-b8c6-4cfb-a853-7e6f039135db
+844,spend,Home Appliances,50.5,62,Medium,85d00e42-ed9a-4bf4-95af-82382a33c080
+845,late,Electronics,114.02,25,Low,21d7ac95-e5de-430e-8be0-ebc396acbdc3
+846,form,Clothing,156.2,36,High,e560b63a-95be-4a60-b145-a7cd29652574
+847,forget,Clothing,204.95,97,High,3089daca-cf8b-439f-9813-de5182f9c063
+848,ahead,Home Appliances,160.48,100,High,2206f8f1-7db9-487d-b09b-dcd78512aed3
+849,natural,Electronics,333.72,85,High,3b66ce84-927a-4c31-86b4-3eaeb434de29
+850,middle,Electronics,482.1,73,Medium,08ef40c2-8913-4fed-8ba3-946e319f7358
+851,hair,Clothing,310.96,88,Low,ffb12c01-9cd0-4474-9244-bb2c09cf2825
+852,admit,Home Appliances,284.43,71,Medium,23a855c7-1509-401e-a584-3d5b50648c92
+853,likely,Electronics,408.98,59,Medium,67f246d0-5d71-44a7-bccf-7f5ff81827e5
+854,management,Electronics,443.37,22,Low,7f6ee16e-1dfc-4625-84c2-86455e9088ec
+855,daughter,Clothing,43.46,28,High,056f9189-a80e-4360-99d8-c4c356c293fd
+856,watch,Clothing,204.26,47,Low,ae3115d6-4669-4d6e-a269-e39414adcf37
+857,page,Home Appliances,58.9,44,Low,f4d91c55-3115-4246-a32c-21c42121df55
+858,camera,Home Appliances,180.21,24,Medium,b643641b-226b-4e19-bf39-3bc9fe4f7313
+859,seat,Clothing,207.62,37,Low,a88c28ca-7fb3-4b0e-be63-0be798729064
+860,evening,Home Appliances,308.26,42,High,095e76e8-93ac-4c44-9b00-79f4f35adc27
+861,total,Clothing,482.63,69,High,2a7c71a7-e634-4529-845f-3e7c9166fbf1
+862,job,Clothing,474.72,90,Low,592a3568-3815-49c1-b294-25193fd5ce8c
+863,weight,Clothing,66.87,23,High,7c3666e5-9ef4-45d4-a241-dfe2616f3e54
+864,consider,Home Appliances,208.97,34,High,74b5ed05-5509-42ba-b1e4-f686cb37df20
+865,bag,Home Appliances,110.0,83,High,c6482d34-e6da-428c-9ca5-2ca7262bf8cf
+866,bag,Home Appliances,113.81,75,High,97828c53-4be9-40ae-9f19-40a0dd5f12a4
+867,seek,Electronics,335.68,37,High,38603f72-1166-4cfc-b187-946c4bd34e59
+868,true,Electronics,151.64,56,Medium,f6adda9c-b266-4b78-a957-9db5639f5d71
+869,tree,Home Appliances,371.57,85,Low,4b2a27ac-b0d7-40de-9556-5f846a98d48e
+870,recent,Home Appliances,55.52,89,Medium,421fdd01-9b5e-4d2c-a429-33715719a508
+871,page,Electronics,373.7,36,Low,6ca9c440-c945-4657-9d1d-2bf41941d6bb
+872,room,Home Appliances,127.25,73,Medium,f2bb1eb4-628f-4328-adda-2cdb25ab732a
+873,store,Clothing,79.46,58,High,d299b9e4-e3f8-4de4-9d12-2cc19c8e81a5
+874,occur,Clothing,304.62,28,Low,eb1ed74a-c905-4ed1-b008-491cffcc066a
+875,election,Clothing,491.05,34,Low,050f43b8-2670-4a66-bf0c-87abac9cd962
+876,adult,Clothing,466.14,59,Medium,aaa613af-6943-433f-b726-30915251f274
+877,model,Home Appliances,230.86,46,Medium,5230bd6a-8866-44d5-ac67-063e325c155f
+878,eye,Electronics,280.93,91,Low,ee2173b1-0779-4ec9-a609-3ec5c5285c83
+879,meeting,Clothing,264.1,66,Low,357d60bf-c15c-4557-9162-bb19e5638558
+880,appear,Clothing,221.3,74,Medium,5a89a479-e809-45d4-bb90-92b5d44347f1
+881,however,Home Appliances,355.96,23,Medium,2d46e7e1-d90d-41b2-b981-03e7e35c13da
+882,able,Home Appliances,414.71,60,High,5249cbaa-1f14-43d0-aeb2-aad3cb9eb3f0
+883,professor,Clothing,37.12,70,Medium,2c2b667f-908b-4287-912d-cfc8eeb733ce
+884,agreement,Clothing,88.18,96,Medium,8a6aedd0-b664-48e5-97b2-ee8e10352a39
+885,base,Electronics,48.25,32,Low,a49a7ae6-73a4-45b0-83d2-00c7a10dfb5a
+886,sing,Electronics,101.44,93,Medium,7e5ee6e9-cd27-4449-8820-5de47c161e1a
+887,ready,Home Appliances,107.91,65,High,74eca989-6aff-4339-bca8-54beb9c22d22
+888,example,Clothing,16.51,78,Medium,865b5f7a-ed3c-4c68-9ad4-2ba7109c68fe
+889,agent,Electronics,304.45,35,Low,c175281a-9d22-412b-8a60-888236f56ed9
+890,ago,Electronics,484.09,80,Low,228f770a-002a-4a6f-8653-690cf840bed4
+891,again,Home Appliances,134.76,98,Low,f588cc3e-8902-4c67-a117-a42fc7fa18aa
+892,plant,Home Appliances,18.73,61,Low,9edd5e39-615f-433a-bc8c-14647690bc73
+893,data,Clothing,99.08,54,High,7579a182-5d80-40a6-92de-a6be80177264
+894,everything,Home Appliances,127.22,29,Low,d2e9cd62-5fde-452b-b723-d41d8c81e6f9
+895,your,Electronics,113.59,83,Medium,313d39dc-eacf-48af-9b1d-d5e34e9c138a
+896,play,Clothing,384.61,55,High,9b00a768-2c23-4ced-a296-e6296fb64927
+897,early,Clothing,229.75,32,High,2609f792-8d4b-469a-b0c6-cf4e5cd26b69
+898,anything,Electronics,307.69,98,High,9c1f9ce5-791f-4f21-bdd2-c272b84bb7d7
+899,treat,Clothing,312.34,55,High,343bfe2a-d28e-4efb-8bc0-b7c463e2b43c
+900,serve,Clothing,303.14,77,Medium,5550c6aa-38e3-4d4f-a9df-7abc34d42f12
+901,artist,Home Appliances,147.1,73,High,1603d9d5-1515-4d97-9817-311c893bf6ad
+902,he,Home Appliances,303.82,31,Low,2f136c38-d02d-4324-a497-4a405c5523ba
+903,process,Clothing,476.45,83,Low,37f5ee30-3921-4246-95b6-aa5ae62640d2
+904,report,Electronics,36.52,42,Low,2bf5a76d-716e-46f9-9fc9-b5ce7ede3ed7
+905,than,Clothing,355.18,52,Medium,06e033b6-2e51-4385-ac79-3f4e2b4fdca5
+906,person,Home Appliances,80.89,96,High,ac8e1fa3-8bd4-4f19-b9ba-a6f784aa487d
+907,best,Clothing,139.34,45,High,ea97c113-57fc-447b-b832-2e499b2a7366
+908,long,Electronics,123.58,35,High,3b28fff0-db81-4242-8d45-52f7e033b9d5
+909,hundred,Electronics,379.89,68,High,04cf9093-2509-43a8-be55-58dfd78f1b9a
+910,paper,Home Appliances,52.29,54,Low,23546606-0758-47a4-b61d-cd15da4c20b0
+911,hear,Electronics,305.55,51,High,e4d8e6ed-356e-40f6-ae9f-0654bed0740a
+912,good,Clothing,456.89,39,Low,54603ea3-1246-49cd-9cdf-98453b1f4b75
+913,specific,Electronics,188.76,22,Medium,7c964955-a069-46b6-8682-f4b013b35d8c
+914,size,Home Appliances,254.78,94,High,af794180-2204-4243-a514-8f40d0e5ad0e
+915,thus,Clothing,78.73,86,Medium,fa172f13-8c2d-4705-b713-39e97d9c165c
+916,factor,Home Appliances,119.12,56,Low,25e95b92-2702-4c59-b1a9-d864df64cdb1
+917,voice,Home Appliances,200.52,38,Low,f7347299-db74-455c-85fc-c429b36679e7
+918,audience,Clothing,218.67,77,High,687d9669-cf9d-4547-88c0-f0e441d79191
+919,assume,Clothing,55.35,54,Medium,48be5574-6944-40b2-bd8d-12734319047f
+920,paper,Clothing,34.46,21,High,9ab5828c-990e-4544-8717-797400dcf95f
+921,often,Clothing,306.94,74,High,c92552bc-6a89-4c0b-a40e-a2fcbb919acf
+922,case,Electronics,411.23,40,Low,11501285-db67-4239-91f0-c664c4667204
+923,none,Clothing,275.38,92,Low,b184fd7e-8f7e-4d7c-86c6-bf8f72c217d4
+924,near,Clothing,197.17,75,High,84422b7b-2a3c-4814-b157-c6b7fbedd9a4
+925,along,Home Appliances,326.14,58,Medium,65def119-db10-44eb-a77b-6b35e66f54ed
+926,trouble,Home Appliances,421.04,45,Medium,fb5b6bdd-9204-43a4-9848-f9faabca35d3
+927,later,Home Appliances,192.97,23,Medium,b683c0e2-b977-4c8c-8890-f3e0130e2b1c
+928,effort,Electronics,192.47,94,High,f59861ab-d779-4d99-b5fb-83c83795520d
+929,culture,Home Appliances,98.08,98,Medium,d0de6d2e-83af-4987-9954-0500ed2f2338
+930,senior,Clothing,15.49,27,Low,e6479ea1-95df-49e9-b591-d191bd5b3e03
+931,account,Clothing,424.66,26,Medium,eb12b417-4630-40c1-9ad6-9a6e5e573ba5
+932,make,Home Appliances,100.95,65,High,26e07a38-146f-497a-94eb-f5d63ec592ad
+933,keep,Home Appliances,274.24,45,Low,bd04c3d3-88e1-4d41-8bd9-e2ca56b2799e
+934,until,Clothing,485.26,26,Low,050a9e08-f567-4db0-8b03-a26f9b77e70c
+935,month,Electronics,406.7,100,Medium,85a444ad-f6ff-4acc-95c7-2b8668c5b4bb
+936,allow,Home Appliances,478.86,96,Low,959f5652-4723-41ae-a62d-8cbfa64c6721
+937,at,Clothing,23.17,74,Low,7fdff58d-fff4-4613-aea7-f72c802e500b
+938,local,Electronics,140.84,37,High,aed88c59-34de-4d93-b743-fab766691e3c
+939,century,Home Appliances,454.3,62,Medium,d192e386-fb45-4dc1-bc2d-19a334d7f224
+940,go,Electronics,463.46,98,High,5cf2795f-2979-4aaf-9abe-1392b3d8ae10
+941,girl,Clothing,367.89,35,High,e0e61e3c-dab4-4089-a870-c3b46680b8ff
+942,less,Home Appliances,205.41,50,High,c01fda85-f6b2-46c7-92a4-1ad57a6b5e58
+943,start,Clothing,81.91,51,Low,7f2d6ff1-e9af-4414-b68c-6f784a755fff
+944,deep,Home Appliances,57.12,84,High,ac91a62c-c4e6-4f76-8ed6-4310732bcd26
+945,tough,Clothing,183.7,81,High,6ecbf29a-d459-455d-8ccd-67aadcf8f5ea
+946,water,Home Appliances,403.63,75,High,6822cdda-70d8-4bc6-bae6-847391929f36
+947,opportunity,Electronics,475.33,29,Low,fc9b438a-fed5-463c-8d4a-3d0c7b91cd49
+948,either,Electronics,285.87,72,Medium,75e46cac-eb16-410b-b200-c24152ceb7c7
+949,beyond,Clothing,384.19,99,Low,c128b037-e0c0-4815-acda-444af6a336bb
+950,third,Clothing,258.37,40,Medium,f8becd63-84f8-4291-b7df-77736069cbc8
+951,miss,Electronics,129.22,69,Low,41214c4a-eb80-4980-af7e-22a95c3fa56d
+952,interview,Home Appliances,42.62,25,High,a77db1f4-ad59-4e5b-8e97-46ae26a9eccf
+953,themselves,Home Appliances,165.06,62,Low,e449a576-5756-4b40-a39a-1d4290205092
+954,company,Electronics,205.84,69,Medium,ee2dfc6f-a42c-4e3c-998b-094291af5964
+955,threat,Electronics,176.96,51,High,b6fcdb7c-d2ea-4908-bc6e-7da9b22bb79b
+956,however,Clothing,368.41,80,Low,ac2b75c4-cd9d-4ec2-81fd-1af7467bd807
+957,measure,Clothing,110.36,80,Medium,01913fb7-fcdb-4bb2-aa41-f4c18fd5274d
+958,place,Clothing,98.46,92,High,0ce5d3dd-d2e1-4602-8189-05eea4b44af1
+959,protect,Clothing,182.08,53,Medium,41871069-0848-4ecf-ba7e-fd407ac09ec6
+960,low,Electronics,471.17,48,High,4eed5ea2-7548-43d5-a5c6-d41f29788fff
+961,population,Home Appliances,231.9,44,High,e281ce73-2981-4e49-9ace-38e4285d4443
+962,past,Home Appliances,479.54,71,High,d2073f36-8f8f-432b-a97c-cd90d6089e2a
+963,affect,Home Appliances,291.48,62,High,7cb3aec6-2e34-4e2b-92ab-171be607d9c0
+964,who,Clothing,184.47,92,Medium,6189191a-eb2d-462f-8990-5aac10bac883
+965,represent,Electronics,265.45,29,Low,9b9573b7-c8b8-4716-a2d2-6761bad33eeb
+966,develop,Clothing,279.9,76,Medium,af9c6699-5026-456a-92c8-c2ba7e83ab1f
+967,raise,Clothing,309.24,57,High,096d5324-39f0-4e29-80e4-44c8a4528cbb
+968,concern,Clothing,244.06,29,Low,a896270a-db5a-458e-aa8d-26a8b59de2b9
+969,perform,Clothing,91.23,92,Low,2bbd78a8-3053-468c-ab68-4d36bf0236c4
+970,prevent,Home Appliances,138.42,42,Medium,c6112898-1876-4415-9e70-3e9835e6cf31
+971,home,Electronics,21.83,97,Low,55b15e8b-fa62-45f7-ab8a-bbd19ddd4710
+972,difference,Home Appliances,125.34,31,High,31096e2f-e083-42a6-be60-f437f183b663
+973,person,Clothing,366.99,73,Medium,20c17cee-cd73-435a-bd6b-db231c0f6444
+974,hospital,Home Appliances,430.47,62,Medium,791e3294-6939-4b07-a5b8-f21b10fb47b9
+975,very,Home Appliances,33.38,89,High,1485dc2b-54c5-469d-9fde-7f690d591955
+976,of,Clothing,407.36,44,Medium,87739a77-529f-4dd8-9c71-d9bb82590da4
+977,past,Home Appliances,42.64,26,High,3192124c-a129-4db9-9434-6877eb9a0c6a
+978,attack,Clothing,156.81,97,Low,d4996088-02a6-4891-961c-28bfd2542fe2
+979,school,Clothing,143.17,29,Low,69dd9683-c98d-41af-850c-c12de18c498e
+980,than,Clothing,163.79,43,Medium,50397761-760b-4082-ac70-8ddf02f585f6
+981,garden,Electronics,136.85,53,Medium,1efe9c24-7cef-40b2-abfd-befa2e943085
+982,direction,Home Appliances,389.8,54,Medium,b3c79226-b756-44ab-b5c4-bed6fdab8064
+983,television,Home Appliances,179.38,75,Low,f7711050-7ad3-4d74-881d-673edadccecd
+984,theory,Home Appliances,173.91,59,High,40160e1f-d681-44f3-adba-bd10007c745d
+985,I,Clothing,237.93,36,Low,88e631a1-7cbf-43ab-9caf-1059a4ed2661
+986,free,Electronics,442.45,65,Low,c2f40a80-ea97-4e19-bf5f-7d2617eeaaab
+987,would,Electronics,48.53,49,High,5356051c-fdd4-4cfd-a67d-2309c3a50937
+988,most,Home Appliances,178.93,77,Medium,34b75573-fdfa-443f-a1e5-9ad9f014bb67
+989,next,Clothing,79.34,98,Low,4234c7e8-6efd-4660-8876-31020d9062a2
+990,strong,Electronics,136.6,27,Low,31c211fb-bfc9-4fa6-87be-84d8dced16b0
+991,next,Home Appliances,290.34,48,High,3e05be9f-033f-4a7b-8e7c-3f7d36ca5981
+992,entire,Electronics,155.7,80,Low,0f047e4e-a2c4-4be9-bd89-d5d814c3addb
+993,throw,Home Appliances,492.38,73,Medium,9101f34e-93f8-4744-acd2-27b94851a5e8
+994,choice,Electronics,495.37,71,High,258694a1-f894-41ae-9671-27c5379e5451
+995,listen,Home Appliances,247.33,24,High,fe3cb29b-6f98-4c58-b061-aa3a95fd77b7
+996,just,Home Appliances,73.41,88,High,2f3b7045-fd98-400c-9d87-c74526cb910f
+997,nor,Home Appliances,430.57,99,Low,c31ae571-09f1-481f-a200-92829e572a12
+998,news,Electronics,169.37,31,High,5c2674c9-0a15-439c-9965-09b15a6a8e15
+999,over,Home Appliances,171.36,33,Medium,6f4bd8f3-1ce0-40e2-8ea6-b37b62a3ccf8
+1000,head,Clothing,189.43,86,Medium,cdacbb33-284e-46b6-8495-968d36edd6a4
